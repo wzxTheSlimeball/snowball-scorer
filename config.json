@@ -1,0 +1,6 @@
+{
+    "scoreModel1":"gemma3:12b",
+    "scoreModel2":"phi3:7b",
+    "scoreModelThinking":"qwen3:14b",
+    "commentingModel":"qwen3:14b"
+}
