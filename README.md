@@ -1,7 +1,7 @@
 ## 项目介绍 Project Description
 
-一个轻量的作文批改项目，调用本地ollama模型来评分~（话说都下载大模型了还轻量吗？）~
-A lightweight writing scorer, call local ollama models to give score(Could it really be lightweight after downloading models?)
+一个轻量的作文批改项目，调用本地ollama模型来评分~~（话说都下载大模型了还轻量吗？）~~
+A lightweight writing scorer, call local ollama models to give score~~(Could it really be lightweight after downloading models?)~~
 
 当前正在开发阶段...
 Under development...
