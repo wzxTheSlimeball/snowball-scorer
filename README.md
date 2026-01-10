@@ -8,6 +8,14 @@ A lightweight writing scorer, call local ollama models to give score(Could it re
 
 Under development...
 
+目前应该只适配windows，因为使用了raylib以及system()
+
+So far it is only supposed to run on windows because I used raylib and system() function
+
+logs文件夹可以安全删除，但是如果你想看看程序的爆炸案例和成功案例可以留着
+
+The logs folder could be deleted safely, but if you want to see the accidents and successes, you could save that
+
 ## 如何使用 How to Use
 
 首先，确保你准备了2个非思考大模型和2个思考大模型(一般标注于ollama官网)
@@ -22,9 +30,9 @@ Enter your non-thinking models' names to the fields `"scoreModel1"` and `"scoreM
 
 Then run the executable, click the button with text "score", the scoring will begin
 
-所有的程序运行信息会详细记录在日志里，你可以通过`./logs/log_[日期]`找到日志
+所有的程序运行信息会详细记录在日志里，你可以通过`./logs/log_[日期]`找到日志（虽然我的日志也有bug...）
 
-All the running status and messages will be logged, you can find them in path `./logs/log_[date]`
+All the running status and messages will be logged, you can find them in path `./logs/log_[date]`,(even though my logs also have bugs...)
 
 ## 故障排除 Troubleshooting
 

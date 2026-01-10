@@ -9,6 +9,7 @@
 #include "callai.h"
 #include "safelog.h"
 #include "gadgets.h"
+#include <algorithm>
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -36,7 +37,7 @@ int main(void)
     SetConsoleOutputCP(CP_UTF8);
     const int screenWidth=1600;
     const int screenHeight=900;
-    InitWindow(screenWidth,screenHeight,"Ｔｈｅ　ａｗｅｓｏｍｅ　ｓｃｏｒｉｎｇ　ｓｙｓ");
+    InitWindow(screenWidth,screenHeight,"Snowball scorer");
     SetTargetFPS(60);
     Rectangle testbtnRect={screenWidth/2-100,screenHeight/2-50,200,100};
     Rectangle savebtnRect={screenWidth/2-100,screenHeight/2+50,200,100};
@@ -45,6 +46,7 @@ int main(void)
     Texture2D savebtnTexture=LoadTexture((WorkingDirectory+"/assets/savebtn.bmp").c_str());
     Button testbtn(testbtnRect,btnTexture);
     Button savebtn(savebtnRect,savebtnTexture);
+    bool wholeProcessDoneDrawSwitch=false;
     int progress=0;
     int score=0;
     int score2=0;
@@ -64,12 +66,23 @@ int main(void)
     std::string writing="";
     std::string prompt="";
     bool wholeProcessDone=false;
+    getConfig();
     while(!WindowShouldClose())
     {
         updateMousePos();
         if(testbtn.isLeftClicked()){
+            wholeProcessDoneDrawSwitch=false;
             start=std::chrono::high_resolution_clock::now();
             safeLog(LOG_INFO,"testbtn is clicked");
+            // reset previous run data before reading
+            writing.clear();
+            paragraphScoringMutex.lock();
+            paragraphScoring.clear();
+            paragraphScoringMutex.unlock();
+            wholeWritingScoringMutex.lock();
+            responseWholeWritingStr.clear();
+            wholeWritingScoringMutex.unlock();
+
             std::ifstream file("./writing.txt");
             if(file.is_open()){
                 std::string line;
@@ -100,27 +113,27 @@ int main(void)
                 promptMutex.lock();
                 std::string promptStr=prompt;
                 promptMutex.unlock();
-                scoreResponse1=callai("gemma3:12b",promptStr,"",0.3,0.6,512,1024,false);
+                scoreResponse1=callai(scoreModel1,promptStr,"",0.3,0.6,512,1024,false);
                 scoreResponseStr=scoreResponse1.getShortContent();
                 safeLog(LOG_INFO,"scoreResponse1 done: %s",scoreResponseStr.c_str());
                 while(scoreResponseStr.find_last_not_of("0123456789")!=std::string::npos){
                     scoreResponseStr.erase(scoreResponseStr.find_last_not_of("0123456789"));
                 }
-                score=std::stoi(extractFirstNumber(scoreResponseStr));
-                scoreResponse2=callai("phi3:14b",promptStr,"",0.3,0.6,512,1024,false);
+                score=extractScoreNumberFromResponse(scoreResponseStr);
+                scoreResponse2=callai(scoreModel2,promptStr,"",0.3,0.6,512,1024,false);
                 scoreResponseStr2=scoreResponse2.getShortContent();
                 safeLog(LOG_INFO,"scoreResponse2 done: %s",scoreResponseStr2.c_str());
                 while(scoreResponseStr2.find_last_not_of("0123456789")!=std::string::npos){
                     scoreResponseStr2.erase(scoreResponseStr2.find_last_not_of("0123456789"));
                 }
-                score2=std::stoi(extractFirstNumber(scoreResponseStr2));
-                scoreResponse3=callai("qwen3:14b",promptStr,"",0.3,0.6,512,1024,false);
+                score2=extractScoreNumberFromResponse(scoreResponseStr2);
+                scoreResponse3=callai(scoreModelThinking,promptStr,"",0.3,0.6,512,1024,false);
                 scoreResponseStr3=scoreResponse3.getShortContent();
                 safeLog(LOG_INFO,"scoreResponse3 done: %s",scoreResponseStr3.c_str());
                 while(scoreResponseStr3.find_last_not_of("0123456789")!=std::string::npos){
                     scoreResponseStr3.erase(scoreResponseStr3.find_last_not_of("0123456789"));
                 }
-                score3=std::stoi(extractFirstNumber(scoreResponseStr3));
+                score3=extractScoreNumberFromResponse(scoreResponseStr3);
                 callDone.store(true);
             });
             thread1.detach();
@@ -133,7 +146,7 @@ int main(void)
                         continue;
                     }
                     std::string prompt="请为下面这个段落写段评，标题为："+title+"，段落为："+para+"\n以markdown格式输出，但不需要\"```markdown\"和\"```\"，也不要包含标题，\"段评：\"，注意你也必须写出这一段的不足之处，不能一味夸赞，不要包含其他内容，格式：优点+\"但是\"+不足处";
-                    Response response=callai("qwen3:14b",prompt,"",1.2,0.6,512,1024,true);
+                    Response response=callai(commentingModel,prompt,"",1.2,0.6,512,1024,true);
                     paragraphScoringMutex.lock();
                     safeLog(LOG_INFO,"response: %s",response.getShortContent().c_str());
                     paragraphScoring.push_back(response.getShortContent());
@@ -162,10 +175,11 @@ int main(void)
         }
         if(savebtn.isLeftClicked()){
             std::ofstream outfile("./scoring.md");
-            outfile<<"# "<<title<<"       得分："<<(score+score2+score3+90.0)/3.0<<"/60\n\n";
+            outfile<<"# "<<title<<"       得分："<<(score+score2+score3)/3.0<<"/60\n\n";
             try{
                 paragraphScoringMutex.lock();
-                for(int i=0;i<paragraphScoring.size();i++){
+                size_t n=std::min(paragraphs.size(), paragraphScoring.size());
+                for(size_t i=0;i<n;i++){
                     outfile<<paragraphs[i]<<"\n\n*"<<paragraphScoring[i]<<"*\n\n\n";
                 }
                 paragraphScoringMutex.unlock();
@@ -173,8 +187,8 @@ int main(void)
                 outfile<<"# 总体评价:\n\n\n"<<responseWholeWritingStr;
                 wholeWritingScoringMutex.unlock();
             }catch(const std::exception& e){
-                safeLog(LOG_ERROR,"paragraphs size: %d",paragraphs.size());
-                safeLog(LOG_ERROR,"paragraphScoring size: %d",paragraphScoring.size());
+                safeLog(LOG_ERROR,"paragraphs size: %zu",paragraphs.size());
+                safeLog(LOG_ERROR,"paragraphScoring size: %zu",paragraphScoring.size());
                 safeLog(LOG_ERROR,"%s",e.what());
             }
             outfile.close();
@@ -202,9 +216,19 @@ int main(void)
             DrawCircle(x,y,50,BLUE);
             DrawText("If the circle is moving, the program is not blocked",200,200,20,BLACK);
             if(wholeProcessDone){
+                wholeProcessDoneDrawSwitch=true;
                 DrawText("The whole process is done",200,300,20,BLACK);
                 end=std::chrono::high_resolution_clock::now();
-                safeLog(LOG_INFO,"duration: %ld",duration.count());
+                safeLog(LOG_INFO,"duration: %lld",(long long)duration.count());
+                DrawText(("time: "+std::to_string(duration.count())+"s").c_str(),200,400,20,BLACK);
+                progress=0;
+                callDone.store(false);
+                analysisDone.store(false);
+                wholeAnalysisDone.store(false);
+                wholeProcessDone=false;
+            }
+            if(wholeProcessDoneDrawSwitch){
+                DrawText("The whole process is done",200,300,20,BLACK);
                 DrawText(("time: "+std::to_string(duration.count())+"s").c_str(),200,400,20,BLACK);
             }
         EndDrawing();

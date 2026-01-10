@@ -1,0 +1,1470 @@
+INFO: Initializing raylib 5.5
+INFO: Platform backend: DESKTOP (GLFW)
+INFO: Supported raylib modules:
+INFO:     > rcore:..... loaded (mandatory)
+INFO:     > rlgl:...... loaded (mandatory)
+INFO:     > rshapes:... loaded (optional)
+INFO:     > rtextures:. loaded (optional)
+INFO:     > rtext:..... loaded (optional)
+INFO:     > rmodels:... loaded (optional)
+INFO:     > raudio:.... loaded (optional)
+INFO: DISPLAY: Device initialized successfully
+INFO:     > Display size: 2560 x 1600
+INFO:     > Screen size:  1600 x 900
+INFO:     > Render size:  1600 x 900
+INFO:     > Viewport offsets: 0, 0
+INFO: GLAD: OpenGL extensions loaded successfully
+INFO: GL: Supported extensions count: 246
+INFO: GL: OpenGL device information:
+INFO:     > Vendor:   Intel
+INFO:     > Renderer: Intel(R) RaptorLake-S Mobile Graphics Controller
+INFO:     > Version:  3.3.0 - Build 32.0.101.6733
+INFO:     > GLSL:     3.30 - Build 32.0.101.6733
+INFO: GL: VAO extension detected, VAO functions loaded successfully
+INFO: GL: NPOT textures extension detected, full NPOT textures supported
+INFO: GL: DXT compressed textures supported
+INFO: GL: ETC2/EAC compressed textures supported
+INFO: PLATFORM: DESKTOP (GLFW - Win32): Initialized successfully
+INFO: TEXTURE: [ID 1] Texture loaded successfully (1x1 | R8G8B8A8 | 1 mipmaps)
+INFO: TEXTURE: [ID 1] Default texture loaded successfully
+INFO: SHADER: [ID 1] Vertex shader compiled successfully
+INFO: SHADER: [ID 2] Fragment shader compiled successfully
+INFO: SHADER: [ID 3] Program shader loaded successfully
+INFO: SHADER: [ID 3] Default shader loaded successfully
+INFO: RLGL: Render batch vertex buffers loaded successfully in RAM (CPU)
+INFO: RLGL: Render batch vertex buffers loaded successfully in VRAM (GPU)
+INFO: RLGL: Default OpenGL state initialized successfully
+INFO: TEXTURE: [ID 2] Texture loaded successfully (128x128 | GRAY_ALPHA | 1 mipmaps)
+INFO: FONT: Default font loaded successfully (224 glyphs)
+INFO: SYSTEM: Working Directory: F:\VSCodeWorkspace\snowball-scorer
+INFO: TIMER: Target time per frame: 16.667 milliseconds
+INFO: FILEIO: [F:\VSCodeWorkspace\snowball-scorer/assets/button.bmp] File loaded successfully
+INFO: IMAGE: Data loaded successfully (200x100 | R8G8B8A8 | 1 mipmaps)
+INFO: TEXTURE: [ID 3] Texture loaded successfully (200x100 | R8G8B8A8 | 1 mipmaps)
+INFO: FILEIO: [F:\VSCodeWorkspace\snowball-scorer/assets/savebtn.bmp] File loaded successfully
+INFO: IMAGE: Data loaded successfully (200x100 | R8G8B8A8 | 1 mipmaps)
+INFO: TEXTURE: [ID 4] Texture loaded successfully (200x100 | R8G8B8A8 | 1 mipmaps)
+[Sat Jan 10 19:52:07 2026] [INFO]  testbtn is clicked
+[Sat Jan 10 19:52:07 2026] [INFO]  writing: 盐的联想
+盐这个东西吧，我觉得它特别重要。你想想看，人要是没有盐吃，那可就麻烦了。我从小就听奶奶说，盐是百味之首，这话说得真有道理。
+今天早上，妈妈叫我出去买盐。超市里的盐真多啊，有加碘的、低钠的、海盐、湖盐，还有进口的喜马拉雅粉红盐，装在漂亮的玻璃瓶里，特别贵。我挑了最普通的那种，两块钱一包。回家的路上，我在想，为什么有的盐那么便宜，有的盐那么贵呢？它们不都是咸的吗？
+回到家，看到妈妈正在做饭。她把盐撒进锅里，发出“滋滋”的声音。我突然想起昨天电视上看到的一个节目，讲的是古代盐商的故事。他们说盐在过去是朝廷管着卖的，叫做“盐铁专卖”，谁要是私自卖盐，会被抓起来的。我觉得这很有意思，就上网查了查资料，发现盐在历史上真的很重要，有些地方还因为盐发生过战争。
+对了，说到盐，我还想起来我们化学课上学过，盐的化学式是NaCl，是钠离子和氯离子组成的。老师还做过实验，把盐溶解在水里，通电后会产生氯气。氯气是黄绿色的，有毒，不过我们用的消毒水里面就有氯的成分。化学真的很有意思，我期中考试化学考了85分，比上次进步了五分，妈妈很高兴，答应周末带我去吃火锅。
+火锅当然要蘸料了，蘸料里必须放盐，不然就没味道。我喜欢芝麻酱、腐乳汁、香菜和很多蒜，再加一点盐，搅拌均匀，特别香。上次和同学去吃火锅，我们点了很多牛肉和毛肚，吃得特别饱，最后还吃了冰淇淋。那个火锅店在学校附近，价格不贵，我们经常去。
+说到学校，我们学校最近在办文化节，每个班都要出一个节目。我们班准备演一个小品，是关于节约用盐的。我演一个做菜总是放很多盐的厨师，结果客人都被咸跑了。为了演好这个角色，我特意观察了妈妈做菜时放盐的动作，她总是先放一点点，尝一尝，再决定要不要继续放。妈妈说这叫“少量多次”，是做菜的基本功。
+盐还有很多用途，比如冬天路上结冰了，可以撒盐化冰。还可以用来刷牙，古代人没有牙膏，就用盐刷牙。对了，腌咸菜也要用很多盐，奶奶每年冬天都会腌一大缸萝卜干，能吃整整一个冬天。她腌的萝卜干特别脆，早上配粥吃最好了。
+总之，盐真的是个好东西。我们的生活离不开盐，就像鱼儿离不开水一样。虽然它看起来很普通，很便宜，但如果没有盐，我们的生活就会变得索然无味。所以我们要珍惜每一粒盐，就像珍惜我们的生活一样。
+写完这篇作文，我看了看窗外，天空很蓝，阳光很好。又是一个美好的日子。
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 盐的联想
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 盐这个东西吧，我觉得它特别重要。你想想看，人要是没有盐吃，那可就麻烦了。我从小就听奶奶说，盐是百味之首，这话说得真有道理。
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 今天早上，妈妈叫我出去买盐。超市里的盐真多啊，有加碘的、低钠的、海盐、湖盐，还有进口的喜马拉雅粉红盐，装在漂亮的玻璃瓶里，特别贵。我挑了最普通的那种，两块钱一包。回家的路上，我在想，为什么有的盐那么便宜，有的盐那么贵呢？它们不都是咸的吗？
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 回到家，看到妈妈正在做饭。她把盐撒进锅里，发出“滋滋”的声音。我突然想起昨天电视上看到的一个节目，讲的是古代盐商的故事。他们说盐在过去是朝廷管着卖的，叫做“盐铁专卖”，谁要是私自卖盐，会被抓起来的。我觉得这很有意思，就上网查了查资料，发现盐在历史上真的很重要，有些地方还因为盐发生过战争。
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 对了，说到盐，我还想起来我们化学课上学过，盐的化学式是NaCl，是钠离子和氯离子组成的。老师还做过实验，把盐溶解在水里，通电后会产生氯气。氯气是黄绿色的，有毒，不过我们用的消毒水里面就有氯的成分。化学真的很有意思，我期中考试化学考了85分，比上次进步了五分，妈妈很高兴，答应周末带我去吃火锅。
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 火锅当然要蘸料了，蘸料里必须放盐，不然就没味道。我喜欢芝麻酱、腐乳汁、香菜和很多蒜，再加一点盐，搅拌均匀，特别香。上次和同学去吃火锅，我们点了很多牛肉和毛肚，吃得特别饱，最后还吃了冰淇淋。那个火锅店在学校附近，价格不贵，我们经常去。
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 说到学校，我们学校最近在办文化节，每个班都要出一个节目。我们班准备演一个小品，是关于节约用盐的。我演一个做菜总是放很多盐的厨师，结果客人都被咸跑了。为了演好这个角色，我特意观察了妈妈做菜时放盐的动作，她总是先放一点点，尝一尝，再决定要不要继续放。妈妈说这叫“少量多次”，是做菜的基本功。
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 盐还有很多用途，比如冬天路上结冰了，可以撒盐化冰。还可以用来刷牙，古代人没有牙膏，就用盐刷牙。对了，腌咸菜也要用很多盐，奶奶每年冬天都会腌一大缸萝卜干，能吃整整一个冬天。她腌的萝卜干特别脆，早上配粥吃最好了。
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 总之，盐真的是个好东西。我们的生活离不开盐，就像鱼儿离不开水一样。虽然它看起来很普通，很便宜，但如果没有盐，我们的生活就会变得索然无味。所以我们要珍惜每一粒盐，就像珍惜我们的生活一样。
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 写完这篇作文，我看了看窗外，天空很蓝，阳光很好。又是一个美好的日子。
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 盐这个东西吧，我觉得它特别重要。你想想看，人要是没有盐吃，那可就麻烦了。我从小就听奶奶说，盐是百味之首，这话说得真有道理。
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 今天早上，妈妈叫我出去买盐。超市里的盐真多啊，有加碘的、低钠的、海盐、湖盐，还有进口的喜马拉雅粉红盐，装在漂亮的玻璃瓶里，特别贵。我挑了最普通的那种，两块钱一包。回家的路上，我在想，为什么有的盐那么便宜，有的盐那么贵呢？它们不都是咸的吗？
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 回到家，看到妈妈正在做饭。她把盐撒进锅里，发出“滋滋”的声音。我突然想起昨天电视上看到的一个节目，讲的是古代盐商的故事。他们说盐在过去是朝廷管着卖的，叫做“盐铁专卖”，谁要是私自卖盐，会被抓起来的。我觉得这很有意思，就上网查了查资料，发现盐在历史上真的很重要，有些地方还因为盐发生过战争。
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 对了，说到盐，我还想起来我们化学课上学过，盐的化学式是NaCl，是钠离子和氯离子组成的。老师还做过实验，把盐溶解在水里，通电后会产生氯气。氯气是黄绿色的，有毒，不过我们用的消毒水里面就有氯的成分。化学真的很有意思，我期中考试化学考了85分，比上次进步了五分，妈妈很高兴，答应周末带我去吃火锅。
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 火锅当然要蘸料了，蘸料里必须放盐，不然就没味道。我喜欢芝麻酱、腐乳汁、香菜和很多蒜，再加一点盐，搅拌均匀，特别香。上次和同学去吃火锅，我们点了很多牛肉和毛肚，吃得特别饱，最后还吃了冰淇淋。那个火锅店在学校附近，价格不贵，我们经常去。
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 说到学校，我们学校最近在办文化节，每个班都要出一个节目。我们班准备演一个小品，是关于节约用盐的。我演一个做菜总是放很多盐的厨师，结果客人都被咸跑了。为了演好这个角色，我特意观察了妈妈做菜时放盐的动作，她总是先放一点点，尝一尝，再决定要不要继续放。妈妈说这叫“少量多次”，是做菜的基本功。
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 盐还有很多用途，比如冬天路上结冰了，可以撒盐化冰。还可以用来刷牙，古代人没有牙膏，就用盐刷牙。对了，腌咸菜也要用很多盐，奶奶每年冬天都会腌一大缸萝卜干，能吃整整一个冬天。她腌的萝卜干特别脆，早上配粥吃最好了。
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 总之，盐真的是个好东西。我们的生活离不开盐，就像鱼儿离不开水一样。虽然它看起来很普通，很便宜，但如果没有盐，我们的生活就会变得索然无味。所以我们要珍惜每一粒盐，就像珍惜我们的生活一样。
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 写完这篇作文，我看了看窗外，天空很蓝，阳光很好。又是一个美好的日子。
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  paragraph: 
+[Sat Jan 10 19:52:07 2026] [INFO]  
+
+
+[Sat Jan 10 19:52:07 2026] [INFO]  prompt: <background>你是一位作文批改老师，请以严格的考试作文标准，对以下文章进行评分。<writing>文章的标题是：盐的联想，文章的内容是：盐的联想
+盐这个东西吧，我觉得它特别重要。你想想看，人要是没有盐吃，那可就麻烦了。我从小就听奶奶说，盐是百味之首，这话说得真有道理。
+今天早上，妈妈叫我出去买盐。超市里的盐真多啊，有加碘的、低钠的、海盐、湖盐，还有进口的喜马拉雅粉红盐，装在漂亮的玻璃瓶里，特别贵。我挑了最普通的那种，两块钱一包。回家的路上，我在想，为什么有的盐那么便宜，有的盐那么贵呢？它们不都是咸的吗？
+回到家，看到妈妈正在做饭。她把盐撒进锅里，发出“滋滋”的声音。我突然想起昨天电视上看到的一个节目，讲的是古代盐商的故事。他们说盐在过去是朝廷管着卖的，叫做“盐铁专卖”，谁要是私自卖盐，会被抓起来的。我觉得这很有意思，就上网查了查资料，发现盐在历史上真的很重要，有些地方还因为盐发生过战争。
+对了，说到盐，我还想起来我们化学课上学过，盐的化学式是NaCl，是钠离子和氯离子组成的。老师还做过实验，把盐溶解在水里，通电后会产生氯气。氯气是黄绿色的，有毒，不过我们用的消毒水里面就有氯的成分。化学真的很有意思，我期中考试化学考了85分，比上次进步了五分，妈妈很高兴，答应周末带我去吃火锅。
+火锅当然要蘸料了，蘸料里必须放盐，不然就没味道。我喜欢芝麻酱、腐乳汁、香菜和很多蒜，再加一点盐，搅拌均匀，特别香。上次和同学去吃火锅，我们点了很多牛肉和毛肚，吃得特别饱，最后还吃了冰淇淋。那个火锅店在学校附近，价格不贵，我们经常去。
+说到学校，我们学校最近在办文化节，每个班都要出一个节目。我们班准备演一个小品，是关于节约用盐的。我演一个做菜总是放很多盐的厨师，结果客人都被咸跑了。为了演好这个角色，我特意观察了妈妈做菜时放盐的动作，她总是先放一点点，尝一尝，再决定要不要继续放。妈妈说这叫“少量多次”，是做菜的基本功。
+盐还有很多用途，比如冬天路上结冰了，可以撒盐化冰。还可以用来刷牙，古代人没有牙膏，就用盐刷牙。对了，腌咸菜也要用很多盐，奶奶每年冬天都会腌一大缸萝卜干，能吃整整一个冬天。她腌的萝卜干特别脆，早上配粥吃最好了。
+总之，盐真的是个好东西。我们的生活离不开盐，就像鱼儿离不开水一样。虽然它看起来很普通，很便宜，但如果没有盐，我们的生活就会变得索然无味。所以我们要珍惜每一粒盐，就像珍惜我们的生活一样。
+写完这篇作文，我看了看窗外，天空很蓝，阳光很好。又是一个美好的日子。
+。<scoring standard>评分标准是：1.文章的结构是否合理，2.文章的内容是否符合题目要求，3.文章的语言是否通顺，是否书面化，4.文章的语法是否正确，5.文章的情感是否符合题目要求，6.文章的长度是否符合题目要求。请对文章进行评分，上述每一点满分10分，其中6分及格，总体评分范围是0-60分，0分表示完全不符合要求，60分表示完全符合要求。请确保你的回复中只包含一个0~60的整数
+[Sat Jan 10 19:52:07 2026] [INFO]  Ollama postData: {"model":"","prompt":"<background>你是一位作文批改老师，请以严格的考试作文标准，对以下文章进行评分。<writing>文章的标题是：盐的联想，文章的内容是：盐的联想\n盐这个东西吧，我觉得它特别重要。你想想看，人要是没有盐吃，那可就麻烦了。我从小就听奶奶说，盐是百味之首，这话说得真有道理。\n今天早上，妈妈叫我出去买盐。超市里的盐真多啊，有加碘的、低钠的、海盐、湖盐，还有进口的喜马拉雅粉红盐，装在漂亮的玻璃瓶里，特别贵。我挑了最普通的那种，两块钱一包。回家的路上，我在想，为什么有的盐那么便宜，有的盐那么贵呢？它们不都是咸的吗？\n回到家，看到妈妈正在做饭。她把盐撒进锅里，发出“滋滋”的声音。我突然想起昨天电视上看到的一个节目，讲的是古代盐商的故事。他们说盐在过去是朝廷管着卖的，叫做“盐铁专卖”，谁要是私自卖盐，会被抓起来的。我觉得这很有意思，就上网查了查资料，发现盐在历史上真的很重要，有些地方还因为盐发生过战争。\n对了，说到盐，我还想起来我们化学课上学过，盐的化学式是NaCl，是钠离子和氯离子组成的。老师还做过实验，把盐溶解在水里，通电后会产生氯气。氯气是黄绿色的，有毒，不过我们用的消毒水里面就有氯的成分。化学真的很有意思，我期中考试化学考了85分，比上次进步了五分，妈妈很高兴，答应周末带我去吃火锅。\n火锅当然要蘸料了，蘸料里必须放盐，不然就没味道。我喜欢芝麻酱、腐乳汁、香菜和很多蒜，再加一点盐，搅拌均匀，特别香。上次和同学去吃火锅，我们点了很多牛肉和毛肚，吃得特别饱，最后还吃了冰淇淋。那个火锅店在学校附近，价格不贵，我们经常去。\n说到学校，我们学校最近在办文化节，每个班都要出一个节目。我们班准备演一个小品，是关于节约用盐的。我演一个做菜总是放很多盐的厨师，结果客人都被咸跑了。为了演好这个角色，我特意观察了妈妈做菜时放盐的动作，她总是先放一点点，尝一尝，再决定要不要继续放。妈妈说这叫“少量多次”，是做菜的基本功。\n盐还有很多用途，比如冬天路上结冰了，可以撒盐化冰。还可以用来刷牙，古代人没有牙膏，就用盐刷牙。对了，腌咸菜也要用很多盐，奶奶每年冬天都会腌一大缸萝卜干，能吃整整一个冬天。她腌的萝卜干特别脆，早上配粥吃最好了。\n总之，盐真的是个好东西。我们的生活离不开盐，就像鱼儿离不开水一样。虽然它看起来很普通，很便宜，但如果没有盐，我们的生活就会变得索然无味。所以我们要珍惜每一粒盐，就像珍惜我们的生活一样。\n写完这篇作文，我看了看窗外，天空很蓝，阳光很好。又是一个美好的日子。\n。<scoring standard>评分标准是：1.文章的结构是否合理，2.文章的内容是否符合题目要求，3.文章的语言是否通顺，是否书面化，4.文章的语法是否正确，5.文章的情感是否符合题目要求，6.文章的长度是否符合题目要求。请对文章进行评分，上述每一点满分10分，其中6分及格，总体评分范围是0-60分，0分表示完全不符合要求，60分表示完全符合要求。请确保你的回复中只包含一个0~60的整数","options":{"temperature":0.300000,"top_p":0.600000,"max_tokens":512,"num_ctx":1024,"thinking":false}}
+[Sat Jan 10 19:52:07 2026] [INFO]  Ollama postData: {"model":"","prompt":"请为下面这个段落写段评，标题为：盐的联想，段落为：盐这个东西吧，我觉得它特别重要。你想想看，人要是没有盐吃，那可就麻烦了。我从小就听奶奶说，盐是百味之首，这话说得真有道理。\n以markdown格式输出，但不需要\"```markdown\"和\"```\"，也不要包含标题，\"段评：\"，注意你也必须写出这一段的不足之处，不能一味夸赞，不要包含其他内容，格式：优点+\"但是\"+不足处","options":{"temperature":1.200000,"top_p":0.600000,"max_tokens":512,"num_ctx":1024,"thinking":true}}
+[Sat Jan 10 19:52:07 2026] [INFO]  Ollama postData: {"model":"qwen3:14b","prompt":"请为下面文章写总评，标题为：盐的联想，文章为：盐的联想\n盐这个东西吧，我觉得它特别重要。你想想看，人要是没有盐吃，那可就麻烦了。我从小就听奶奶说，盐是百味之首，这话说得真有道理。\n今天早上，妈妈叫我出去买盐。超市里的盐真多啊，有加碘的、低钠的、海盐、湖盐，还有进口的喜马拉雅粉红盐，装在漂亮的玻璃瓶里，特别贵。我挑了最普通的那种，两块钱一包。回家的路上，我在想，为什么有的盐那么便宜，有的盐那么贵呢？它们不都是咸的吗？\n回到家，看到妈妈正在做饭。她把盐撒进锅里，发出“滋滋”的声音。我突然想起昨天电视上看到的一个节目，讲的是古代盐商的故事。他们说盐在过去是朝廷管着卖的，叫做“盐铁专卖”，谁要是私自卖盐，会被抓起来的。我觉得这很有意思，就上网查了查资料，发现盐在历史上真的很重要，有些地方还因为盐发生过战争。\n对了，说到盐，我还想起来我们化学课上学过，盐的化学式是NaCl，是钠离子和氯离子组成的。老师还做过实验，把盐溶解在水里，通电后会产生氯气。氯气是黄绿色的，有毒，不过我们用的消毒水里面就有氯的成分。化学真的很有意思，我期中考试化学考了85分，比上次进步了五分，妈妈很高兴，答应周末带我去吃火锅。\n火锅当然要蘸料了，蘸料里必须放盐，不然就没味道。我喜欢芝麻酱、腐乳汁、香菜和很多蒜，再加一点盐，搅拌均匀，特别香。上次和同学去吃火锅，我们点了很多牛肉和毛肚，吃得特别饱，最后还吃了冰淇淋。那个火锅店在学校附近，价格不贵，我们经常去。\n说到学校，我们学校最近在办文化节，每个班都要出一个节目。我们班准备演一个小品，是关于节约用盐的。我演一个做菜总是放很多盐的厨师，结果客人都被咸跑了。为了演好这个角色，我特意观察了妈妈做菜时放盐的动作，她总是先放一点点，尝一尝，再决定要不要继续放。妈妈说这叫“少量多次”，是做菜的基本功。\n盐还有很多用途，比如冬天路上结冰了，可以撒盐化冰。还可以用来刷牙，古代人没有牙膏，就用盐刷牙。对了，腌咸菜也要用很多盐，奶奶每年冬天都会腌一大缸萝卜干，能吃整整一个冬天。她腌的萝卜干特别脆，早上配粥吃最好了。\n总之，盐真的是个好东西。我们的生活离不开盐，就像鱼儿离不开水一样。虽然它看起来很普通，很便宜，但如果没有盐，我们的生活就会变得索然无味。所以我们要珍惜每一粒盐，就像珍惜我们的生活一样。\n写完这篇作文，我看了看窗外，天空很蓝，阳光很好。又是一个美好的日子。\n\n以markdown格式输出，但不需要\"```markdown\"和\"```\"，也不要包含标题，\"段评：\"，注意你也必须写出这篇文章的不足之处，不能一味夸赞，不要包含其他内容，格式：优点+\"但是\"+不足处，请都写得长一点","options":{"temperature":1.200000,"top_p":0.600000,"max_tokens":1024,"num_ctx":2048,"thinking":true}}
+[Sat Jan 10 19:52:07 2026] [INFO]  Ollama origin response: {"error":"model '' not found"}
+[Sat Jan 10 19:52:07 2026] [ERROR]  jsonResponse contains error, Error: {"error":"model '' not found"}
+[Sat Jan 10 19:52:07 2026] [INFO]  response: 
+[Sat Jan 10 19:52:07 2026] [INFO]  Ollama postData: {"model":"","prompt":"请为下面这个段落写段评，标题为：盐的联想，段落为：今天早上，妈妈叫我出去买盐。超市里的盐真多啊，有加碘的、低钠的、海盐、湖盐，还有进口的喜马拉雅粉红盐，装在漂亮的玻璃瓶里，特别贵。我挑了最普通的那种，两块钱一包。回家的路上，我在想，为什么有的盐那么便宜，有的盐那么贵呢？它们不都是咸的吗？\n以markdown格式输出，但不需要\"```markdown\"和\"```\"，也不要包含标题，\"段评：\"，注意你也必须写出这一段的不足之处，不能一味夸赞，不要包含其他内容，格式：优点+\"但是\"+不足处","options":{"temperature":1.200000,"top_p":0.600000,"max_tokens":512,"num_ctx":1024,"thinking":true}}
+[Sat Jan 10 19:52:07 2026] [INFO]  Ollama origin response: {"error":"model '' not found"}
+[Sat Jan 10 19:52:07 2026] [ERROR]  jsonResponse contains error, Error: {"error":"model '' not found"}
+[Sat Jan 10 19:52:07 2026] [INFO]  scoreResponse1 done: 
+[Sat Jan 10 19:52:07 2026] [INFO]  Ollama postData: {"model":"","prompt":"<background>你是一位作文批改老师，请以严格的考试作文标准，对以下文章进行评分。<writing>文章的标题是：盐的联想，文章的内容是：盐的联想\n盐这个东西吧，我觉得它特别重要。你想想看，人要是没有盐吃，那可就麻烦了。我从小就听奶奶说，盐是百味之首，这话说得真有道理。\n今天早上，妈妈叫我出去买盐。超市里的盐真多啊，有加碘的、低钠的、海盐、湖盐，还有进口的喜马拉雅粉红盐，装在漂亮的玻璃瓶里，特别贵。我挑了最普通的那种，两块钱一包。回家的路上，我在想，为什么有的盐那么便宜，有的盐那么贵呢？它们不都是咸的吗？\n回到家，看到妈妈正在做饭。她把盐撒进锅里，发出“滋滋”的声音。我突然想起昨天电视上看到的一个节目，讲的是古代盐商的故事。他们说盐在过去是朝廷管着卖的，叫做“盐铁专卖”，谁要是私自卖盐，会被抓起来的。我觉得这很有意思，就上网查了查资料，发现盐在历史上真的很重要，有些地方还因为盐发生过战争。\n对了，说到盐，我还想起来我们化学课上学过，盐的化学式是NaCl，是钠离子和氯离子组成的。老师还做过实验，把盐溶解在水里，通电后会产生氯气。氯气是黄绿色的，有毒，不过我们用的消毒水里面就有氯的成分。化学真的很有意思，我期中考试化学考了85分，比上次进步了五分，妈妈很高兴，答应周末带我去吃火锅。\n火锅当然要蘸料了，蘸料里必须放盐，不然就没味道。我喜欢芝麻酱、腐乳汁、香菜和很多蒜，再加一点盐，搅拌均匀，特别香。上次和同学去吃火锅，我们点了很多牛肉和毛肚，吃得特别饱，最后还吃了冰淇淋。那个火锅店在学校附近，价格不贵，我们经常去。\n说到学校，我们学校最近在办文化节，每个班都要出一个节目。我们班准备演一个小品，是关于节约用盐的。我演一个做菜总是放很多盐的厨师，结果客人都被咸跑了。为了演好这个角色，我特意观察了妈妈做菜时放盐的动作，她总是先放一点点，尝一尝，再决定要不要继续放。妈妈说这叫“少量多次”，是做菜的基本功。\n盐还有很多用途，比如冬天路上结冰了，可以撒盐化冰。还可以用来刷牙，古代人没有牙膏，就用盐刷牙。对了，腌咸菜也要用很多盐，奶奶每年冬天都会腌一大缸萝卜干，能吃整整一个冬天。她腌的萝卜干特别脆，早上配粥吃最好了。\n总之，盐真的是个好东西。我们的生活离不开盐，就像鱼儿离不开水一样。虽然它看起来很普通，很便宜，但如果没有盐，我们的生活就会变得索然无味。所以我们要珍惜每一粒盐，就像珍惜我们的生活一样。\n写完这篇作文，我看了看窗外，天空很蓝，阳光很好。又是一个美好的日子。\n。<scoring standard>评分标准是：1.文章的结构是否合理，2.文章的内容是否符合题目要求，3.文章的语言是否通顺，是否书面化，4.文章的语法是否正确，5.文章的情感是否符合题目要求，6.文章的长度是否符合题目要求。请对文章进行评分，上述每一点满分10分，其中6分及格，总体评分范围是0-60分，0分表示完全不符合要求，60分表示完全符合要求。请确保你的回复中只包含一个0~60的整数","options":{"temperature":0.300000,"top_p":0.600000,"max_tokens":512,"num_ctx":1024,"thinking":false}}
+[Sat Jan 10 19:52:07 2026] [INFO]  Ollama origin response: {"error":"model '' not found"}
+[Sat Jan 10 19:52:07 2026] [ERROR]  jsonResponse contains error, Error: {"error":"model '' not found"}
+[Sat Jan 10 19:52:07 2026] [INFO]  response: 
+[Sat Jan 10 19:52:07 2026] [INFO]  Ollama postData: {"model":"","prompt":"请为下面这个段落写段评，标题为：盐的联想，段落为：回到家，看到妈妈正在做饭。她把盐撒进锅里，发出“滋滋”的声音。我突然想起昨天电视上看到的一个节目，讲的是古代盐商的故事。他们说盐在过去是朝廷管着卖的，叫做“盐铁专卖”，谁要是私自卖盐，会被抓起来的。我觉得这很有意思，就上网查了查资料，发现盐在历史上真的很重要，有些地方还因为盐发生过战争。\n以markdown格式输出，但不需要\"```markdown\"和\"```\"，也不要包含标题，\"段评：\"，注意你也必须写出这一段的不足之处，不能一味夸赞，不要包含其他内容，格式：优点+\"但是\"+不足处","options":{"temperature":1.200000,"top_p":0.600000,"max_tokens":512,"num_ctx":1024,"thinking":true}}
+[Sat Jan 10 19:52:07 2026] [INFO]  Ollama origin response: {"error":"model '' not found"}
+[Sat Jan 10 19:52:07 2026] [ERROR]  jsonResponse contains error, Error: {"error":"model '' not found"}
+[Sat Jan 10 19:52:07 2026] [INFO]  scoreResponse2 done: 
+[Sat Jan 10 19:52:07 2026] [INFO]  Ollama postData: {"model":"","prompt":"<background>你是一位作文批改老师，请以严格的考试作文标准，对以下文章进行评分。<writing>文章的标题是：盐的联想，文章的内容是：盐的联想\n盐这个东西吧，我觉得它特别重要。你想想看，人要是没有盐吃，那可就麻烦了。我从小就听奶奶说，盐是百味之首，这话说得真有道理。\n今天早上，妈妈叫我出去买盐。超市里的盐真多啊，有加碘的、低钠的、海盐、湖盐，还有进口的喜马拉雅粉红盐，装在漂亮的玻璃瓶里，特别贵。我挑了最普通的那种，两块钱一包。回家的路上，我在想，为什么有的盐那么便宜，有的盐那么贵呢？它们不都是咸的吗？\n回到家，看到妈妈正在做饭。她把盐撒进锅里，发出“滋滋”的声音。我突然想起昨天电视上看到的一个节目，讲的是古代盐商的故事。他们说盐在过去是朝廷管着卖的，叫做“盐铁专卖”，谁要是私自卖盐，会被抓起来的。我觉得这很有意思，就上网查了查资料，发现盐在历史上真的很重要，有些地方还因为盐发生过战争。\n对了，说到盐，我还想起来我们化学课上学过，盐的化学式是NaCl，是钠离子和氯离子组成的。老师还做过实验，把盐溶解在水里，通电后会产生氯气。氯气是黄绿色的，有毒，不过我们用的消毒水里面就有氯的成分。化学真的很有意思，我期中考试化学考了85分，比上次进步了五分，妈妈很高兴，答应周末带我去吃火锅。\n火锅当然要蘸料了，蘸料里必须放盐，不然就没味道。我喜欢芝麻酱、腐乳汁、香菜和很多蒜，再加一点盐，搅拌均匀，特别香。上次和同学去吃火锅，我们点了很多牛肉和毛肚，吃得特别饱，最后还吃了冰淇淋。那个火锅店在学校附近，价格不贵，我们经常去。\n说到学校，我们学校最近在办文化节，每个班都要出一个节目。我们班准备演一个小品，是关于节约用盐的。我演一个做菜总是放很多盐的厨师，结果客人都被咸跑了。为了演好这个角色，我特意观察了妈妈做菜时放盐的动作，她总是先放一点点，尝一尝，再决定要不要继续放。妈妈说这叫“少量多次”，是做菜的基本功。\n盐还有很多用途，比如冬天路上结冰了，可以撒盐化冰。还可以用来刷牙，古代人没有牙膏，就用盐刷牙。对了，腌咸菜也要用很多盐，奶奶每年冬天都会腌一大缸萝卜干，能吃整整一个冬天。她腌的萝卜干特别脆，早上配粥吃最好了。\n总之，盐真的是个好东西。我们的生活离不开盐，就像鱼儿离不开水一样。虽然它看起来很普通，很便宜，但如果没有盐，我们的生活就会变得索然无味。所以我们要珍惜每一粒盐，就像珍惜我们的生活一样。\n写完这篇作文，我看了看窗外，天空很蓝，阳光很好。又是一个美好的日子。\n。<scoring standard>评分标准是：1.文章的结构是否合理，2.文章的内容是否符合题目要求，3.文章的语言是否通顺，是否书面化，4.文章的语法是否正确，5.文章的情感是否符合题目要求，6.文章的长度是否符合题目要求。请对文章进行评分，上述每一点满分10分，其中6分及格，总体评分范围是0-60分，0分表示完全不符合要求，60分表示完全符合要求。请确保你的回复中只包含一个0~60的整数","options":{"temperature":0.300000,"top_p":0.600000,"max_tokens":512,"num_ctx":1024,"thinking":false}}
+[Sat Jan 10 19:52:08 2026] [INFO]  Ollama origin response: {"error":"model '' not found"}
+[Sat Jan 10 19:52:08 2026] [ERROR]  jsonResponse contains error, Error: {"error":"model '' not found"}
+[Sat Jan 10 19:52:08 2026] [INFO]  response: 
+[Sat Jan 10 19:52:08 2026] [INFO]  Ollama postData: {"model":"","prompt":"请为下面这个段落写段评，标题为：盐的联想，段落为：对了，说到盐，我还想起来我们化学课上学过，盐的化学式是NaCl，是钠离子和氯离子组成的。老师还做过实验，把盐溶解在水里，通电后会产生氯气。氯气是黄绿色的，有毒，不过我们用的消毒水里面就有氯的成分。化学真的很有意思，我期中考试化学考了85分，比上次进步了五分，妈妈很高兴，答应周末带我去吃火锅。\n以markdown格式输出，但不需要\"```markdown\"和\"```\"，也不要包含标题，\"段评：\"，注意你也必须写出这一段的不足之处，不能一味夸赞，不要包含其他内容，格式：优点+\"但是\"+不足处","options":{"temperature":1.200000,"top_p":0.600000,"max_tokens":512,"num_ctx":1024,"thinking":true}}
+[Sat Jan 10 19:52:08 2026] [INFO]  Ollama origin response: {"error":"model '' not found"}
+[Sat Jan 10 19:52:08 2026] [ERROR]  jsonResponse contains error, Error: {"error":"model '' not found"}
+[Sat Jan 10 19:52:08 2026] [INFO]  scoreResponse3 done: 
+[Sat Jan 10 19:52:08 2026] [INFO]  Ollama origin response: {"error":"model '' not found"}
+[Sat Jan 10 19:52:08 2026] [ERROR]  jsonResponse contains error, Error: {"error":"model '' not found"}
+[Sat Jan 10 19:52:08 2026] [INFO]  response: 
+[Sat Jan 10 19:52:08 2026] [INFO]  Ollama postData: {"model":"","prompt":"请为下面这个段落写段评，标题为：盐的联想，段落为：火锅当然要蘸料了，蘸料里必须放盐，不然就没味道。我喜欢芝麻酱、腐乳汁、香菜和很多蒜，再加一点盐，搅拌均匀，特别香。上次和同学去吃火锅，我们点了很多牛肉和毛肚，吃得特别饱，最后还吃了冰淇淋。那个火锅店在学校附近，价格不贵，我们经常去。\n以markdown格式输出，但不需要\"```markdown\"和\"```\"，也不要包含标题，\"段评：\"，注意你也必须写出这一段的不足之处，不能一味夸赞，不要包含其他内容，格式：优点+\"但是\"+不足处","options":{"temperature":1.200000,"top_p":0.600000,"max_tokens":512,"num_ctx":1024,"thinking":true}}
+[Sat Jan 10 19:52:08 2026] [INFO]  Ollama origin response: {"error":"model '' not found"}
+[Sat Jan 10 19:52:08 2026] [ERROR]  jsonResponse contains error, Error: {"error":"model '' not found"}
+[Sat Jan 10 19:52:08 2026] [INFO]  response: 
+[Sat Jan 10 19:52:08 2026] [INFO]  Ollama postData: {"model":"","prompt":"请为下面这个段落写段评，标题为：盐的联想，段落为：说到学校，我们学校最近在办文化节，每个班都要出一个节目。我们班准备演一个小品，是关于节约用盐的。我演一个做菜总是放很多盐的厨师，结果客人都被咸跑了。为了演好这个角色，我特意观察了妈妈做菜时放盐的动作，她总是先放一点点，尝一尝，再决定要不要继续放。妈妈说这叫“少量多次”，是做菜的基本功。\n以markdown格式输出，但不需要\"```markdown\"和\"```\"，也不要包含标题，\"段评：\"，注意你也必须写出这一段的不足之处，不能一味夸赞，不要包含其他内容，格式：优点+\"但是\"+不足处","options":{"temperature":1.200000,"top_p":0.600000,"max_tokens":512,"num_ctx":1024,"thinking":true}}
+[Sat Jan 10 19:52:08 2026] [INFO]  Ollama origin response: {"error":"model '' not found"}
+[Sat Jan 10 19:52:08 2026] [ERROR]  jsonResponse contains error, Error: {"error":"model '' not found"}
+[Sat Jan 10 19:52:08 2026] [INFO]  response: 
+[Sat Jan 10 19:52:08 2026] [INFO]  Ollama postData: {"model":"","prompt":"请为下面这个段落写段评，标题为：盐的联想，段落为：盐还有很多用途，比如冬天路上结冰了，可以撒盐化冰。还可以用来刷牙，古代人没有牙膏，就用盐刷牙。对了，腌咸菜也要用很多盐，奶奶每年冬天都会腌一大缸萝卜干，能吃整整一个冬天。她腌的萝卜干特别脆，早上配粥吃最好了。\n以markdown格式输出，但不需要\"```markdown\"和\"```\"，也不要包含标题，\"段评：\"，注意你也必须写出这一段的不足之处，不能一味夸赞，不要包含其他内容，格式：优点+\"但是\"+不足处","options":{"temperature":1.200000,"top_p":0.600000,"max_tokens":512,"num_ctx":1024,"thinking":true}}
+[Sat Jan 10 19:52:09 2026] [INFO]  Ollama origin response: {"error":"model '' not found"}
+[Sat Jan 10 19:52:09 2026] [ERROR]  jsonResponse contains error, Error: {"error":"model '' not found"}
+[Sat Jan 10 19:52:09 2026] [INFO]  response: 
+[Sat Jan 10 19:52:09 2026] [INFO]  Ollama postData: {"model":"","prompt":"请为下面这个段落写段评，标题为：盐的联想，段落为：总之，盐真的是个好东西。我们的生活离不开盐，就像鱼儿离不开水一样。虽然它看起来很普通，很便宜，但如果没有盐，我们的生活就会变得索然无味。所以我们要珍惜每一粒盐，就像珍惜我们的生活一样。\n以markdown格式输出，但不需要\"```markdown\"和\"```\"，也不要包含标题，\"段评：\"，注意你也必须写出这一段的不足之处，不能一味夸赞，不要包含其他内容，格式：优点+\"但是\"+不足处","options":{"temperature":1.200000,"top_p":0.600000,"max_tokens":512,"num_ctx":1024,"thinking":true}}
+[Sat Jan 10 19:52:09 2026] [INFO]  Ollama origin response: {"error":"model '' not found"}
+[Sat Jan 10 19:52:09 2026] [ERROR]  jsonResponse contains error, Error: {"error":"model '' not found"}
+[Sat Jan 10 19:52:09 2026] [INFO]  response: 
+[Sat Jan 10 19:52:09 2026] [INFO]  Ollama postData: {"model":"","prompt":"请为下面这个段落写段评，标题为：盐的联想，段落为：写完这篇作文，我看了看窗外，天空很蓝，阳光很好。又是一个美好的日子。\n以markdown格式输出，但不需要\"```markdown\"和\"```\"，也不要包含标题，\"段评：\"，注意你也必须写出这一段的不足之处，不能一味夸赞，不要包含其他内容，格式：优点+\"但是\"+不足处","options":{"temperature":1.200000,"top_p":0.600000,"max_tokens":512,"num_ctx":1024,"thinking":true}}
+[Sat Jan 10 19:52:09 2026] [INFO]  Ollama origin response: {"error":"model '' not found"}
+[Sat Jan 10 19:52:09 2026] [ERROR]  jsonResponse contains error, Error: {"error":"model '' not found"}
+[Sat Jan 10 19:52:09 2026] [INFO]  response: 
+[Sat Jan 10 19:52:09 2026] [INFO]  paragraphAnalysis done
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama origin response: {"model":"qwen3:14b","created_at":"2026-01-10T11:52:14.1309796Z","response":"","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:14.2267219Z","response":"","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:14.299697Z","response":"","thinking":"好的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:14.3704605Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:14.4426543Z","response":"","thinking":"我现在","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:14.5154171Z","response":"","thinking":"需要","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:14.5910554Z","response":"","thinking":"帮","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:14.6672809Z","response":"","thinking":"用户","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:14.7522864Z","response":"","thinking":"写","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:14.8320648Z","response":"","thinking":"一篇","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:14.9054522Z","response":"","thinking":"关于","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:14.9793205Z","response":"","thinking":"《","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:15.0569748Z","response":"","thinking":"盐","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:15.1394444Z","response":"","thinking":"的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:15.2202998Z","response":"","thinking":"联想","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:15.2996604Z","response":"","thinking":"》","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:15.384845Z","response":"","thinking":"的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:15.4728459Z","response":"","thinking":"总","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:15.5553223Z","response":"","thinking":"评","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:15.6395864Z","response":"","thinking":"。","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:15.7168811Z","response":"","thinking":"用户","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:15.8003442Z","response":"","thinking":"要求","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:15.8932055Z","response":"","thinking":"用","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:15.9789869Z","response":"","thinking":"markdown","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:16.0613856Z","response":"","thinking":"格式","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:16.138867Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:16.2162238Z","response":"","thinking":"但","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:16.2989521Z","response":"","thinking":"不需要","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:16.3827422Z","response":"","thinking":"代码","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:16.4638319Z","response":"","thinking":"块","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:16.538825Z","response":"","thinking":"标记","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:16.6201948Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:16.6965074Z","response":"","thinking":"也不","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:16.7718206Z","response":"","thinking":"包含","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:16.8481092Z","response":"","thinking":"标题","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:16.9219113Z","response":"","thinking":"、","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:16.9966836Z","response":"","thinking":"段","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:17.0742749Z","response":"","thinking":"评","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:17.1482226Z","response":"","thinking":"等","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:17.2265723Z","response":"","thinking":"。","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:17.3025368Z","response":"","thinking":"同时","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:17.3790562Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:17.4550116Z","response":"","thinking":"必须","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:17.5328261Z","response":"","thinking":"指出","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:17.6089Z","response":"","thinking":"文章","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:17.687541Z","response":"","thinking":"的优点","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:17.766005Z","response":"","thinking":"和","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:17.8453104Z","response":"","thinking":"不足","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:17.9205694Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:17.9968242Z","response":"","thinking":"不能","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:18.0724411Z","response":"","thinking":"一味","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:18.1473625Z","response":"","thinking":"夸","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:18.2218837Z","response":"","thinking":"赞","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:18.2969053Z","response":"","thinking":"。\n\n","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:18.3761772Z","response":"","thinking":"首先","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:18.4545979Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:18.5320297Z","response":"","thinking":"我","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:18.6064598Z","response":"","thinking":"得","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:18.6865882Z","response":"","thinking":"通","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:18.7614989Z","response":"","thinking":"读","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:18.838011Z","response":"","thinking":"原文","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:18.9185744Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:18.9989989Z","response":"","thinking":"理解","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:19.0792833Z","response":"","thinking":"内容","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:19.1548595Z","response":"","thinking":"。","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:19.2344642Z","response":"","thinking":"文章","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:19.313709Z","response":"","thinking":"从","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:19.3886502Z","response":"","thinking":"盐","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:19.4652306Z","response":"","thinking":"的重要性","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:19.5420463Z","response":"","thinking":"谈起","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:19.6167485Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:19.6933604Z","response":"","thinking":"涉及","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:19.7683094Z","response":"","thinking":"生活","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:19.8458821Z","response":"","thinking":"、","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:19.9212917Z","response":"","thinking":"历史","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:19.9997617Z","response":"","thinking":"、","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:20.0762108Z","response":"","thinking":"化学","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:20.1514331Z","response":"","thinking":"、","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:20.2290576Z","response":"","thinking":"学校","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:20.3037791Z","response":"","thinking":"活动","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:20.3783203Z","response":"","thinking":"等多个","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:20.4533387Z","response":"","thinking":"方面","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:20.5257265Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:20.5998301Z","response":"","thinking":"结构","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:20.6750591Z","response":"","thinking":"比较","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:20.7498206Z","response":"","thinking":"松","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:20.8225417Z","response":"","thinking":"散","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:20.8967978Z","response":"","thinking":"但","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:20.971324Z","response":"","thinking":"内容","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:21.0469514Z","response":"","thinking":"丰富","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:21.1214394Z","response":"","thinking":"。","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:21.1971721Z","response":"","thinking":"优点","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:21.2736609Z","response":"","thinking":"可能","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:21.3471261Z","response":"","thinking":"包括","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:21.4253758Z","response":"","thinking":"内容","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:21.5005111Z","response":"","thinking":"广泛","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:21.5769685Z","response":"","thinking":"、","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:21.6528899Z","response":"","thinking":"语言","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:21.7271799Z","response":"","thinking":"生动","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:21.7993496Z","response":"","thinking":"、","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:21.873562Z","response":"","thinking":"贴近","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:21.9480447Z","response":"","thinking":"生活","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:22.0273761Z","response":"","thinking":"等","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:22.1023506Z","response":"","thinking":"。","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:22.1776018Z","response":"","thinking":"不足","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:22.251992Z","response":"","thinking":"可能","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:22.3255156Z","response":"","thinking":"在于","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:22.39989Z","response":"","thinking":"结构","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:22.473207Z","response":"","thinking":"不够","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:22.5473705Z","response":"","thinking":"清晰","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:22.623839Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:22.6984449Z","response":"","thinking":"逻辑","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:22.771054Z","response":"","thinking":"跳跃","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:22.843819Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:22.9165948Z","response":"","thinking":"部分","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:22.9929916Z","response":"","thinking":"例子","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:23.0667098Z","response":"","thinking":"可能","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:23.1387069Z","response":"","thinking":"不够","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:23.2115193Z","response":"","thinking":"深入","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:23.288996Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:23.3661661Z","response":"","thinking":"或者","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:23.4414801Z","response":"","thinking":"结尾","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:23.5178827Z","response":"","thinking":"略","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:23.5897603Z","response":"","thinking":"显","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:23.6651504Z","response":"","thinking":"突","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:23.740936Z","response":"","thinking":"兀","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:23.8162647Z","response":"","thinking":"。\n\n","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:23.8911638Z","response":"","thinking":"接下来","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:23.9663662Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:24.0415082Z","response":"","thinking":"我","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:24.1159609Z","response":"","thinking":"需要","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:24.1921015Z","response":"","thinking":"确定","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:24.2659678Z","response":"","thinking":"如何","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:24.3398557Z","response":"","thinking":"组织","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:24.4162875Z","response":"","thinking":"语言","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:24.4938843Z","response":"","thinking":"。","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:24.5683912Z","response":"","thinking":"用户","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:24.6399739Z","response":"","thinking":"要求","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:24.717741Z","response":"","thinking":"优点","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:24.7903653Z","response":"","thinking":"和","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:24.8669737Z","response":"","thinking":"不足","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:24.9436487Z","response":"","thinking":"都要","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:25.0210797Z","response":"","thinking":"详细","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:25.1020119Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:25.1804952Z","response":"","thinking":"用","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:25.2569563Z","response":"","thinking":"“","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:25.3365096Z","response":"","thinking":"但是","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:25.4128073Z","response":"","thinking":"”","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:25.4897781Z","response":"","thinking":"连接","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:25.5670402Z","response":"","thinking":"。","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:25.6429647Z","response":"","thinking":"要注意","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:25.7188245Z","response":"","thinking":"避免","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:25.7967619Z","response":"","thinking":"使用","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:25.8729376Z","response":"","thinking":"专业","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:25.9512171Z","response":"","thinking":"术语","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:26.0268187Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:26.1055933Z","response":"","thinking":"保持","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:26.1813613Z","response":"","thinking":"口语","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:26.2596961Z","response":"","thinking":"化","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:26.3360895Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:26.4111003Z","response":"","thinking":"但","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:26.4887874Z","response":"","thinking":"又要","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:26.564863Z","response":"","thinking":"符合","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:26.6414862Z","response":"","thinking":"总","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:26.7190269Z","response":"","thinking":"评","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:26.7981695Z","response":"","thinking":"的要求","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:26.870121Z","response":"","thinking":"。\n\n","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:26.9434742Z","response":"","thinking":"可能","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:27.0210485Z","response":"","thinking":"的优点","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:27.0959003Z","response":"","thinking":"：","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:27.169147Z","response":"","thinking":"文章","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:27.2465206Z","response":"","thinking":"内容","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:27.3233467Z","response":"","thinking":"丰富","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:27.4004017Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:27.4752295Z","response":"","thinking":"涵盖","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:27.5519753Z","response":"","thinking":"多个","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:27.627508Z","response":"","thinking":"领域","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:27.7063119Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:27.7827769Z","response":"","thinking":"如","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:27.86082Z","response":"","thinking":"生活","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:27.941037Z","response":"","thinking":"、","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:28.0150091Z","response":"","thinking":"历史","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:28.0900361Z","response":"","thinking":"、","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:28.1683129Z","response":"","thinking":"化学","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:28.2411278Z","response":"","thinking":"、","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:28.3169759Z","response":"","thinking":"学校","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:28.3916144Z","response":"","thinking":"活动","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:28.467968Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:28.5425734Z","response":"","thinking":"展示了","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:28.6184906Z","response":"","thinking":"盐","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:28.6949056Z","response":"","thinking":"的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:28.7707156Z","response":"","thinking":"多","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:28.8484873Z","response":"","thinking":"面","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:28.9205541Z","response":"","thinking":"性","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:28.9950243Z","response":"","thinking":"；","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:29.0729599Z","response":"","thinking":"语言","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:29.1482273Z","response":"","thinking":"生动","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:29.2239388Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:29.3016371Z","response":"","thinking":"用","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:29.3793328Z","response":"","thinking":"具体","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:29.4520473Z","response":"","thinking":"例子","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:29.5280276Z","response":"","thinking":"和","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:29.6064253Z","response":"","thinking":"场景","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:29.6830303Z","response":"","thinking":"描述","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:29.7614596Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:29.8416911Z","response":"","thinking":"如","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:29.9163599Z","response":"","thinking":"买","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:29.9927097Z","response":"","thinking":"盐","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:30.0649668Z","response":"","thinking":"、","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:30.1400422Z","response":"","thinking":"做","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:30.2160429Z","response":"","thinking":"菜","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:30.2887709Z","response":"","thinking":"、","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:30.3643876Z","response":"","thinking":"火锅","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:30.4409735Z","response":"","thinking":"等","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:30.5164378Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:30.5915854Z","response":"","thinking":"使","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:30.6676685Z","response":"","thinking":"读者","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:30.7427339Z","response":"","thinking":"有","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:30.8186828Z","response":"","thinking":"代","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:30.8933258Z","response":"","thinking":"入","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:30.9679971Z","response":"","thinking":"感","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:31.0468303Z","response":"","thinking":"；","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:31.1270223Z","response":"","thinking":"结构","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:31.2034774Z","response":"","thinking":"上","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:31.2825796Z","response":"","thinking":"虽","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:31.3577627Z","response":"","thinking":"松","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:31.4350375Z","response":"","thinking":"散","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:31.5077703Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:31.5837737Z","response":"","thinking":"但","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:31.6587472Z","response":"","thinking":"自然","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:31.7313781Z","response":"","thinking":"流畅","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:31.8074569Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:31.8806383Z","response":"","thinking":"符合","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:31.9552747Z","response":"","thinking":"小学生","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:32.0293778Z","response":"","thinking":"作文","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:32.1037946Z","response":"","thinking":"的特点","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:32.1762226Z","response":"","thinking":"。\n\n","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:32.2547666Z","response":"","thinking":"不足","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:32.32603Z","response":"","thinking":"之处","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:32.4029804Z","response":"","thinking":"：","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:32.4797761Z","response":"","thinking":"结构","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:32.5542826Z","response":"","thinking":"松","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:32.6276121Z","response":"","thinking":"散","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:32.7025035Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:32.780467Z","response":"","thinking":"各","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:32.8544704Z","response":"","thinking":"部分","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:32.9278348Z","response":"","thinking":"之间","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:33.0038175Z","response":"","thinking":"缺乏","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:33.0789848Z","response":"","thinking":"过渡","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:33.1536019Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:33.229511Z","response":"","thinking":"导致","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:33.3066643Z","response":"","thinking":"逻辑","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:33.3848201Z","response":"","thinking":"跳跃","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:33.4595308Z","response":"","thinking":"；","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:33.5328097Z","response":"","thinking":"部分","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:33.6072277Z","response":"","thinking":"例子","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:33.6828794Z","response":"","thinking":"过于","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:33.7628602Z","response":"","thinking":"简单","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:33.8355847Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:33.9134446Z","response":"","thinking":"如","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:33.9893598Z","response":"","thinking":"化学","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:34.069331Z","response":"","thinking":"实验","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:34.1435632Z","response":"","thinking":"部分","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:34.2207657Z","response":"","thinking":"可能","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:34.2949836Z","response":"","thinking":"不够","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:34.3694133Z","response":"","thinking":"深入","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:34.4468814Z","response":"","thinking":"；","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:34.5246765Z","response":"","thinking":"结尾","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:34.601769Z","response":"","thinking":"部分","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:34.6784854Z","response":"","thinking":"突然","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:34.7533011Z","response":"","thinking":"转向","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:34.8281924Z","response":"","thinking":"天气","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:34.9064961Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:34.9824518Z","response":"","thinking":"显得","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:35.0592226Z","response":"","thinking":"突","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:35.1370972Z","response":"","thinking":"兀","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:35.2167346Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:35.2944639Z","response":"","thinking":"未能","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:35.3693475Z","response":"","thinking":"很好地","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:35.4448327Z","response":"","thinking":"总结","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:35.5210946Z","response":"","thinking":"全文","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:35.5962452Z","response":"","thinking":"；","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:35.6725605Z","response":"","thinking":"语言","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:35.7567788Z","response":"","thinking":"上","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:35.8322902Z","response":"","thinking":"有些","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:35.9066671Z","response":"","thinking":"重复","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:35.9827692Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:36.0562443Z","response":"","thinking":"如","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:36.1335027Z","response":"","thinking":"多次","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:36.205605Z","response":"","thinking":"提到","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:36.2808169Z","response":"","thinking":"盐","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:36.3549915Z","response":"","thinking":"的重要性","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:36.4292663Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:36.5026967Z","response":"","thinking":"可能","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:36.5800905Z","response":"","thinking":"显得","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:36.6581407Z","response":"","thinking":"冗","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:36.7336472Z","response":"","thinking":"余","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:36.8130025Z","response":"","thinking":"。\n\n","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:36.8902466Z","response":"","thinking":"需要","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:36.9656162Z","response":"","thinking":"确保","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:37.0430551Z","response":"","thinking":"在","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:37.123098Z","response":"","thinking":"总","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:37.1993089Z","response":"","thinking":"评","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:37.2778056Z","response":"","thinking":"中","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:37.3560216Z","response":"","thinking":"既","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:37.4328416Z","response":"","thinking":"肯定","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:37.5067347Z","response":"","thinking":"优点","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:37.5839118Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:37.6609612Z","response":"","thinking":"又","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:37.7375516Z","response":"","thinking":"指出","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:37.8136835Z","response":"","thinking":"不足","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:37.8904598Z","response":"","thinking":"，并","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:37.9658296Z","response":"","thinking":"且","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:38.0394989Z","response":"","thinking":"保持","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:38.1152852Z","response":"","thinking":"客观","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:38.1898789Z","response":"","thinking":"。","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:38.2647034Z","response":"","thinking":"同时","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:38.3434378Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:38.418543Z","response":"","thinking":"避免","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:38.4916243Z","response":"","thinking":"使用","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:38.5682794Z","response":"","thinking":"任何","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:38.6416412Z","response":"","thinking":"格式","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:38.7182993Z","response":"","thinking":"标记","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:38.7941856Z","response":"","thinking":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:38.8695135Z","response":"","thinking":"只","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:38.9442554Z","response":"","thinking":"用","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:39.0201457Z","response":"","thinking":"自然","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:39.0978477Z","response":"","thinking":"的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:39.1739086Z","response":"","thinking":"中文","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:39.248099Z","response":"","thinking":"段","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:39.3244124Z","response":"","thinking":"落","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:39.3991286Z","response":"","thinking":"。\n","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:39.4735927Z","response":"","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:39.5509576Z","response":"","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:39.6285063Z","response":"这篇文章","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:39.70323Z","response":"以","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:39.7779989Z","response":"“","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:39.8525608Z","response":"盐","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:39.9259573Z","response":"”","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:40.0012378Z","response":"为","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:40.07748Z","response":"线索","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:40.1547549Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:40.2328611Z","response":"从","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:40.3298264Z","response":"日常生活","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:40.4083699Z","response":"、","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:40.4844725Z","response":"历史","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:40.5587318Z","response":"背景","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:40.6350307Z","response":"、","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:40.7136638Z","response":"化学","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:40.790289Z","response":"知识","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:40.8639123Z","response":"到","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:40.9364118Z","response":"校园","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:41.0127423Z","response":"生活","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:41.0888867Z","response":"等多个","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:41.1633361Z","response":"维度","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:41.2398746Z","response":"展开","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:41.314829Z","response":"联想","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:41.3868481Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:41.45969Z","response":"展现了","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:41.5342807Z","response":"作者","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:41.6098702Z","response":"对","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:41.6844921Z","response":"生活","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:41.7590229Z","response":"细节","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:41.8311638Z","response":"的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:41.9086457Z","response":"敏锐","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:41.983627Z","response":"观察","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:42.0585182Z","response":"力","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:42.1365113Z","response":"和","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:42.2144331Z","response":"丰富的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:42.2874235Z","response":"想象力","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:42.3642877Z","response":"。","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:42.4420548Z","response":"文章","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:42.519404Z","response":"通过","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:42.5970788Z","response":"超市","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:42.6750861Z","response":"买","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:42.7548637Z","response":"盐","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:42.8368089Z","response":"、","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:42.9168586Z","response":"妈妈","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:42.9943957Z","response":"做饭","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:43.0701244Z","response":"、","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:43.152935Z","response":"化学","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:43.2334004Z","response":"实验","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:43.3136245Z","response":"、","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:43.3941944Z","response":"火锅","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:43.4718089Z","response":"蘸","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:43.5464023Z","response":"料","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:43.6242065Z","response":"、","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:43.6990713Z","response":"班级","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:43.7733632Z","response":"小","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:43.8498284Z","response":"品","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:43.9260536Z","response":"等","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:44.0002832Z","response":"具体","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:44.0781865Z","response":"场景","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:44.154267Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:44.2306268Z","response":"将","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:44.307664Z","response":"抽象","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:44.3811657Z","response":"的概念","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:44.4570465Z","response":"转化为","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:44.5350337Z","response":"生动","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:44.6121989Z","response":"的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:44.6889039Z","response":"叙述","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:44.7671466Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:44.8425318Z","response":"使","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:44.9187542Z","response":"读者","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:44.9963874Z","response":"在","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:45.0733975Z","response":"轻松","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:45.151328Z","response":"的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:45.2258602Z","response":"语","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:45.3029467Z","response":"境","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:45.3791168Z","response":"中","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:45.455838Z","response":"获取","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:45.5331064Z","response":"知识","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:45.6114227Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:45.6869504Z","response":"体现了","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:45.7651499Z","response":"较强的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:45.8387937Z","response":"叙事","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:45.9199919Z","response":"能力和","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:45.993801Z","response":"跨","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:46.0720852Z","response":"学科","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:46.1469693Z","response":"思维","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:46.221122Z","response":"。","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:46.2988727Z","response":"同时","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:46.3742851Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:46.4500756Z","response":"文章","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:46.5236733Z","response":"语言","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:46.5971521Z","response":"朴实","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:46.6727373Z","response":"自然","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:46.7481771Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:46.8223134Z","response":"大量","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:46.8965441Z","response":"使用","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:46.9700903Z","response":"口语","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:47.0459997Z","response":"化的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:47.1232081Z","response":"表达","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:47.1997075Z","response":"和","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:47.2753167Z","response":"拟","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:47.3505128Z","response":"声","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:47.4274542Z","response":"词","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:47.5011273Z","response":"（","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:47.5754891Z","response":"如","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:47.6530216Z","response":"“","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:47.7404607Z","response":"滋","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:47.8170782Z","response":"滋","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:47.8922866Z","response":"”的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:47.9664567Z","response":"声音","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:48.0395601Z","response":"），","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:48.1163112Z","response":"增强了","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:48.1916277Z","response":"画面","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:48.2667024Z","response":"感","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:48.3428986Z","response":"和","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:48.4197215Z","response":"代","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:48.4965666Z","response":"入","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:48.5741623Z","response":"感","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:48.6459562Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:48.7278052Z","response":"体现出","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:48.8004905Z","response":"作者","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:48.896525Z","response":"对","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:48.9871806Z","response":"生活的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:49.0838445Z","response":"热情","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:49.1644443Z","response":"和","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:49.2659342Z","response":"对","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:49.3520351Z","response":"知识","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:49.4258219Z","response":"的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:49.5003486Z","response":"探索","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:49.5741068Z","response":"欲","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:49.649691Z","response":"。\n\n","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:49.7287958Z","response":"但是","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:49.8039423Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:49.8804745Z","response":"文章","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:49.9571167Z","response":"在","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:50.0332722Z","response":"结构","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:50.1113894Z","response":"安排","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:50.1873704Z","response":"上","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:50.2649352Z","response":"存在","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:50.341616Z","response":"明显","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:50.4168724Z","response":"疏","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:50.4914982Z","response":"漏","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:50.5653855Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:50.6432533Z","response":"各","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:50.7185541Z","response":"部分内容","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:50.7963814Z","response":"之间","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:50.8708206Z","response":"缺乏","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:50.9459539Z","response":"逻辑","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:51.0225116Z","response":"衔接","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:51.0988364Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:51.1767954Z","response":"导致","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:51.2529784Z","response":"段","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:51.327942Z","response":"落","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:51.4022122Z","response":"跳跃","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:51.4749557Z","response":"性","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:51.5482285Z","response":"过","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:51.625418Z","response":"强","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:51.7027127Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:51.7790737Z","response":"如","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:51.8535652Z","response":"从","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:51.9290819Z","response":"化学","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:52.0059309Z","response":"实验","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:52.0791672Z","response":"突然","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:52.1565811Z","response":"转","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:52.2358026Z","response":"到","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:52.3130887Z","response":"火锅","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:52.3869797Z","response":"蘸","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:52.4638567Z","response":"料","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:52.5403141Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:52.616289Z","response":"再","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:52.6937202Z","response":"跳","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:52.7705335Z","response":"到","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:52.8464694Z","response":"班级","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:52.9224757Z","response":"小","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:53.0017804Z","response":"品","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:53.080608Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:53.1561945Z","response":"缺乏","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:53.2327873Z","response":"过渡","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:53.3101915Z","response":"句","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:53.3893166Z","response":"或","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:53.4657208Z","response":"主题","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:53.5442982Z","response":"句","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:53.6232046Z","response":"的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:53.7017196Z","response":"串联","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:53.7781703Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:53.8558607Z","response":"使","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:53.9334411Z","response":"整体","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:54.0118994Z","response":"结构","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:54.0862025Z","response":"显得","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:54.1612358Z","response":"松","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:54.2362697Z","response":"散","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:54.3126561Z","response":"。","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:54.3896007Z","response":"此外","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:54.4655647Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:54.5421238Z","response":"部分","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:54.6196585Z","response":"细节","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:54.6953545Z","response":"描写","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:54.7739004Z","response":"过于","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:54.8504335Z","response":"浅","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:54.9283093Z","response":"显","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:55.0084339Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:55.0828043Z","response":"例如","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:55.1597544Z","response":"对","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:55.2384894Z","response":"“","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:55.3178861Z","response":"盐","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:55.3948502Z","response":"铁","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:55.4705626Z","response":"专卖","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:55.5468856Z","response":"”","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:55.6229098Z","response":"历史","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:55.6966116Z","response":"背景","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:55.7725432Z","response":"的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:55.8500459Z","response":"提及","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:55.9249323Z","response":"仅","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:55.9985913Z","response":"停留在","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:56.0744531Z","response":"表面","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:56.149585Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:56.2260054Z","response":"未","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:56.2981307Z","response":"深入","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:56.3734301Z","response":"探讨","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:56.4475584Z","response":"其","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:56.524604Z","response":"社会","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:56.5982089Z","response":"影响","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:56.6716007Z","response":"或","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:56.7459911Z","response":"经济","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:56.821692Z","response":"意义","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:56.895221Z","response":"；","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:56.9690836Z","response":"对","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:57.0475345Z","response":"化学","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:57.1221117Z","response":"实验","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:57.1993952Z","response":"的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:57.2757224Z","response":"描述","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:57.3540269Z","response":"也","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:57.4314767Z","response":"仅","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:57.5093377Z","response":"停留在","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:57.5858329Z","response":"“","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:57.6678692Z","response":"产生","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:57.7430212Z","response":"氯","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:57.8193055Z","response":"气","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:57.8975916Z","response":"”的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:57.9774489Z","response":"简单","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:58.0540223Z","response":"结论","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:58.127856Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:58.2042066Z","response":"未能","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:58.2801472Z","response":"引导","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:58.3570975Z","response":"读者","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:58.4350579Z","response":"思考","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:58.5138991Z","response":"氯","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:58.5908411Z","response":"气","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:58.6692751Z","response":"在","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:58.7423205Z","response":"现代","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:58.8199968Z","response":"工业","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:58.8946681Z","response":"中的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:58.9715639Z","response":"应用","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:59.0461039Z","response":"或","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:59.1228547Z","response":"潜在","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:59.1984376Z","response":"危害","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:59.2754709Z","response":"。","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:59.350721Z","response":"最后","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:59.4268253Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:59.5013429Z","response":"结尾","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:59.5758455Z","response":"部分","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:59.6510139Z","response":"以","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:59.7295124Z","response":"“","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:59.8072779Z","response":"窗外","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:59.8834817Z","response":"的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:52:59.9607204Z","response":"蓝天","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:00.0368733Z","response":"”","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:00.1129216Z","response":"收","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:00.1886873Z","response":"束","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:00.2647677Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:00.347502Z","response":"与","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:00.4230015Z","response":"前","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:00.4994741Z","response":"文","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:00.5755539Z","response":"主题","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:00.6525446Z","response":"关联","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:00.7273457Z","response":"薄弱","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:00.8013371Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:00.8778622Z","response":"未能","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:00.9551871Z","response":"形成","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:01.033867Z","response":"首","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:01.1090375Z","response":"尾","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:01.1906129Z","response":"呼应","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:01.2657471Z","response":"，","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:01.3447269Z","response":"使","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:01.421331Z","response":"整","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:01.496767Z","response":"篇文章","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:01.5737163Z","response":"的","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:01.6488414Z","response":"立","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:01.7245734Z","response":"意","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:01.7969827Z","response":"显得","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:01.8720473Z","response":"不够","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:01.9476374Z","response":"完整","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:02.0244413Z","response":"。","done":false}
+{"model":"qwen3:14b","created_at":"2026-01-10T11:53:02.1023884Z","response":"","done":true,"done_reason":"stop","context":[151644,872,198,14880,17714,100431,82025,61443,59743,63379,3837,60396,17714,5122,102029,9370,107499,3837,82025,17714,5122,102029,9370,107499,198,102029,99487,100413,100003,3837,104288,99652,100654,99335,1773,56568,105839,50930,3837,17340,104806,80443,102029,99405,3837,99212,30440,80158,104969,34187,1773,35946,114304,49187,105943,36587,3837,102029,20412,99271,99375,53930,59975,3837,43288,103101,49828,88051,18830,102522,8997,100644,105083,3837,101935,111285,102057,99565,102029,1773,104631,102073,102029,88051,42140,103924,3837,18830,20929,119035,9370,5373,99285,110915,9370,5373,55135,102029,5373,99529,102029,3837,100626,104194,9370,99370,109509,71025,99742,99425,102029,3837,98641,18493,108463,104268,100822,69249,3837,100654,99582,1773,35946,100428,34187,31235,106035,102245,3837,77540,106734,14777,67279,1773,104122,109334,3837,104786,99172,3837,100678,99996,102029,100624,104698,3837,99996,102029,100624,99582,101036,11319,104017,16530,100132,102805,9370,101037,94432,112696,3837,101038,101935,96555,110878,1773,99517,99360,102029,104856,41299,101240,69249,3837,104351,2073,100333,100333,97907,102274,1773,35946,103961,105545,104373,100234,17447,101038,104111,100793,3837,99526,100146,102640,102029,32022,104413,1773,99650,36587,102029,110457,20412,111827,35551,99164,99615,9370,3837,105792,2073,102029,100164,115681,33590,100165,104806,116788,99615,102029,3837,106764,99745,99793,9370,1773,104288,43288,105098,100313,3837,80158,106511,32876,34187,32876,101111,3837,99879,102029,18493,105881,100672,106760,3837,101895,100371,97706,99519,102029,99726,38182,104304,8997,32664,34187,3837,102855,102029,3837,107228,116254,97639,102264,99504,106813,38182,3837,102029,9370,102264,28330,20412,16193,5066,3837,20412,110915,108510,33108,109941,108510,107339,1773,101049,97706,107994,102140,3837,99360,102029,115278,18493,52510,69249,3837,31935,38212,33447,108981,109941,99180,1773,109941,99180,20412,99789,100706,9370,3837,112873,3837,100632,97639,11622,9370,105202,52510,100420,104435,109941,9370,105024,1773,102264,100672,105098,100313,3837,35946,22704,15946,103960,102264,77598,34187,23,20,17177,3837,56006,109592,101300,34187,75108,17177,3837,101935,112169,3837,106101,105648,99278,107996,99405,107058,8997,107058,103942,30534,119039,41406,34187,3837,119039,41406,69249,100645,53222,102029,3837,102642,109537,102580,1773,109366,110701,102675,5373,100298,100489,102514,5373,99662,99800,33108,99555,103306,3837,87256,20929,100380,102029,3837,109290,106674,3837,100654,99662,1773,109592,33108,101181,85336,99405,107058,3837,97639,27442,104686,107528,33108,99676,102766,3837,112487,100654,100962,3837,100161,97706,105705,117129,1773,101095,107058,71416,109610,102205,3837,97480,16530,99582,3837,97639,101942,85336,8997,102855,100344,3837,97639,100344,104044,18493,99227,116722,3837,103991,99431,104278,20221,46944,100793,1773,97639,99431,101077,99312,107861,24442,3837,20412,101888,105455,11622,102029,9370,1773,35946,99312,46944,99190,99800,104014,53222,99555,102029,9370,114396,3837,59151,64754,100328,99250,102805,111171,1773,100012,99312,52801,99487,100780,3837,35946,108838,104144,34187,101935,99190,99800,13343,53222,102029,109318,3837,99517,104014,60726,53222,107342,3837,101315,14777,101315,3837,87256,103930,111343,100640,53222,1773,101935,36587,43288,99882,2073,108521,104183,33590,20412,99190,99800,105166,17404,8997,102029,109016,105795,3837,101912,105491,100309,36885,100038,34187,3837,73670,104856,102029,32108,100038,1773,104468,102688,101210,100446,3837,102640,17340,80443,100446,103143,3837,80158,11622,102029,101210,100446,1773,32664,34187,3837,119122,102805,99800,104302,11622,99555,102029,3837,105943,101988,105491,101938,119122,100919,107347,103438,99251,3837,26232,99405,110167,46944,105491,1773,99517,119122,9370,103438,99251,100654,101655,3837,105083,54387,106864,99405,101171,34187,8997,106279,3837,102029,105093,18947,52801,100413,1773,103952,99424,106869,102029,3837,104092,100655,99261,106869,52510,101891,1773,103925,99652,104544,99165,100714,3837,99165,104698,3837,77288,107427,102029,3837,103952,99424,103939,101197,50984,60894,42192,99375,1773,99999,105332,106812,104588,101425,102029,3837,104092,106812,103952,99424,101891,8997,61443,46306,103623,104745,3837,35946,110449,111510,3837,101916,99165,100400,3837,104166,101243,1773,99518,101909,106369,102534,3407,23031,60073,68805,66017,3837,77288,104689,1,73594,60073,1,33108,1,73594,1,3837,110239,102298,60396,3837,1,37474,63379,40727,3837,60533,107411,100645,112672,113273,9370,102004,105046,3837,53153,111042,101651,99709,3837,100148,102298,92894,43815,3837,68805,5122,103134,5172,100131,5572,102004,44290,37945,71268,61443,49828,45861,100380,608,26865,151645,198,151644,77091,198,151667,198,99692,3837,107520,85106,99663,20002,61443,101555,101888,26940,102029,9370,107499,25067,9370,59743,63379,1773,20002,101882,11622,60073,68805,3837,77288,104689,46100,99922,113743,3837,99744,102298,60396,5373,37474,63379,49567,1773,91572,3837,100645,103988,82025,112853,33108,102004,3837,53153,111042,101651,99709,3407,101140,3837,35946,49828,31935,57553,103283,3837,101128,43815,1773,82025,45181,102029,106508,116537,3837,102031,99424,5373,100022,5373,102264,5373,100344,99600,108211,99522,3837,100166,99792,100180,99632,77288,43815,100733,1773,103134,87267,100630,43815,100789,5373,102064,106267,5373,111892,99424,49567,1773,102004,87267,101321,100166,104222,104542,3837,104913,115537,3837,99659,103358,87267,104222,100403,3837,100631,114903,99475,99580,99624,119534,3407,104326,3837,35946,85106,60610,100007,99877,102064,1773,20002,101882,103134,33108,102004,104278,100700,3837,11622,2073,100131,854,64064,1773,105213,101153,37029,99878,116925,3837,100662,113113,32108,3837,77288,107919,101137,59743,63379,104272,3407,87267,112853,5122,82025,43815,100733,3837,102994,101213,100650,3837,29524,99424,5373,100022,5373,102264,5373,100344,99600,3837,108869,102029,9370,42140,27091,33071,24968,102064,106267,3837,11622,100398,103358,33108,102122,53481,3837,29524,99565,102029,5373,99190,99800,5373,107058,49567,3837,32555,104785,18830,30540,17254,98650,24968,100166,17447,100628,100180,99632,3837,77288,99795,110205,3837,101137,111029,104745,105117,3407,102004,105046,5122,100166,100180,99632,3837,99200,99659,101920,104250,103062,3837,100673,104913,115537,24968,99659,103358,102767,100405,3837,29524,102264,102140,99659,87267,104222,100403,24968,114903,99659,103961,106438,104307,3837,104392,99624,119534,3837,106197,113678,102050,101679,24968,102064,17447,101895,105444,3837,29524,104183,104496,102029,106508,3837,87267,104392,119256,88683,3407,85106,103944,18493,59743,63379,15946,99929,100736,103134,3837,99518,103988,102004,90395,100136,100662,105310,1773,91572,3837,101153,37029,99885,68805,113743,3837,91680,11622,99795,9370,104811,37474,99297,8997,151668,271,113273,23031,2073,102029,854,17714,105814,3837,45181,106480,5373,100022,102193,5373,102264,100032,26939,104262,99424,108211,106643,104324,107499,3837,111358,57421,32664,99424,104449,9370,113786,104144,47534,33108,104653,114376,1773,82025,67338,104631,99565,102029,5373,101935,110878,5373,102264,102140,5373,107058,119039,41406,5373,107278,30709,24442,49567,100398,102122,3837,44063,111372,107402,106474,106267,9370,114221,3837,32555,104785,18493,104261,9370,72881,99279,15946,45912,100032,3837,107614,112657,115692,106712,99960,104391,102141,1773,91572,3837,82025,102064,116518,99795,3837,100722,37029,113113,105302,102124,33108,100478,70074,99689,9909,29524,2073,100333,100333,97907,102274,48272,107987,102650,98650,33108,30540,17254,98650,3837,112423,57421,32664,105301,102379,33108,32664,100032,9370,101964,101188,3407,100131,3837,82025,18493,100166,103956,17447,47606,100687,100900,100515,3837,99200,116586,101920,104250,104913,106725,3837,100673,37474,99297,115537,33071,38182,99193,3837,29524,45181,102264,102140,103961,46670,26939,107058,119039,41406,3837,87256,100421,26939,107278,30709,24442,3837,104250,103062,99700,57191,100220,99700,9370,117126,3837,32555,101932,100166,104392,100180,99632,1773,104043,3837,99659,104449,109478,102767,104362,99580,3837,77557,32664,2073,102029,100164,115681,854,100022,102193,9370,109361,99373,112151,104386,3837,38342,100403,105435,41146,99328,99564,57191,99346,100240,24968,32664,102264,102140,9370,53481,74763,99373,112151,2073,100394,109941,99180,97907,100405,106073,3837,106197,104042,104785,104107,109941,99180,18493,100390,100159,101047,99892,57191,106362,102672,1773,100161,3837,114903,99659,23031,2073,111510,9370,108960,854,50009,62963,3837,57218,24562,16744,100220,102802,110403,3837,106197,101894,59975,101143,116867,3837,32555,63431,113773,9370,79095,36589,104392,104222,100873,1773],"total_duration":54334446000,"load_duration":4909521700,"prompt_eval_count":753,"prompt_eval_duration":1419296100,"eval_count":628,"eval_duration":47727602600}
+
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 这篇文章
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 以
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: “
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 盐
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ”
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 为
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 线索
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 从
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 日常生活
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 、
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 历史
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 背景
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 、
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 化学
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 知识
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 到
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 校园
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 生活
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 等多个
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 维度
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 展开
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 联想
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 展现了
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 作者
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 对
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 生活
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 细节
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 的
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 敏锐
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 观察
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 力
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 和
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 丰富的
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 想象力
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 。
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 文章
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 通过
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 超市
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 买
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 盐
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 、
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 妈妈
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 做饭
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 、
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 化学
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 实验
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 、
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 火锅
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 蘸
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 料
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 、
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 班级
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 小
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 品
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 等
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 具体
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 场景
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 将
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 抽象
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 的概念
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 转化为
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 生动
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 的
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 叙述
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 使
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 读者
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 在
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 轻松
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 的
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 语
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 境
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 中
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 获取
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 知识
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 体现了
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 较强的
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 叙事
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 能力和
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 跨
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 学科
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 思维
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 。
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 同时
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 文章
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 语言
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 朴实
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 自然
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 大量
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 使用
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 口语
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 化的
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 表达
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 和
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 拟
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 声
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 词
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: （
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 如
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: “
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 滋
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 滋
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ”的
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 声音
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ），
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 增强了
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 画面
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 感
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 和
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 代
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 入
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 感
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 体现出
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 作者
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 对
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 生活的
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 热情
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 和
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 对
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 知识
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 的
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 探索
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 欲
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 。\n\n
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 但是
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 文章
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 在
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 结构
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 安排
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 上
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 存在
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 明显
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 疏
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 漏
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 各
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 部分内容
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 之间
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 缺乏
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 逻辑
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 衔接
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 导致
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 段
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 落
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 跳跃
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 性
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 过
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 强
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 如
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 从
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 化学
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 实验
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 突然
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 转
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 到
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 火锅
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 蘸
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 料
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 再
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 跳
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 到
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 班级
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 小
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 品
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 缺乏
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 过渡
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 句
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 或
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 主题
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 句
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 的
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 串联
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 使
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 整体
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 结构
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 显得
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 松
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 散
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 。
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 此外
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 部分
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 细节
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 描写
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 过于
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 浅
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 显
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 例如
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 对
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: “
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 盐
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 铁
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 专卖
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ”
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 历史
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 背景
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 的
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 提及
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 仅
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 停留在
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 表面
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 未
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 深入
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 探讨
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 其
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 社会
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 影响
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 或
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 经济
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 意义
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ；
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 对
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 化学
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 实验
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 的
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 描述
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 也
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 仅
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 停留在
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: “
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 产生
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 氯
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 气
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ”的
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 简单
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 结论
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 未能
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 引导
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 读者
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 思考
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 氯
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 气
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 在
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 现代
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 工业
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 中的
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 应用
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 或
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 潜在
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 危害
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 。
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 最后
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 结尾
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 部分
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 以
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: “
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 窗外
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 的
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 蓝天
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ”
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 收
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 束
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 与
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 前
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 文
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 主题
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 关联
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 薄弱
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 未能
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 形成
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 首
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 尾
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 呼应
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: ，
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 使
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 整
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 篇文章
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 的
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 立
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 意
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 显得
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 不够
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 完整
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 。
+[Sat Jan 10 19:53:02 2026] [INFO]  Ollama response: 
+[Sat Jan 10 19:53:02 2026] [INFO]  responseWholeWriting: 这篇文章以“盐”为线索，从日常生活、历史背景、化学知识到校园生活等多个维度展开联想，展现了作者对生活细节的敏锐观察力和丰富的想象力。文章通过超市买盐、妈妈做饭、化学实验、火锅蘸料、班级小品等具体场景，将抽象的概念转化为生动的叙述，使读者在轻松的语境中获取知识，体现了较强的叙事能力和跨学科思维。同时，文章语言朴实自然，大量使用口语化的表达和拟声词（如“滋滋”的声音），增强了画面感和代入感，体现出作者对生活的热情和对知识的探索欲。
+
+但是，文章在结构安排上存在明显疏漏，各部分内容之间缺乏逻辑衔接，导致段落跳跃性过强，如从化学实验突然转到火锅蘸料，再跳到班级小品，缺乏过渡句或主题句的串联，使整体结构显得松散。此外，部分细节描写过于浅显，例如对“盐铁专卖”历史背景的提及仅停留在表面，未深入探讨其社会影响或经济意义；对化学实验的描述也仅停留在“产生氯气”的简单结论，未能引导读者思考氯气在现代工业中的应用或潜在危害。最后，结尾部分以“窗外的蓝天”收束，与前文主题关联薄弱，未能形成首尾呼应，使整篇文章的立意显得不够完整。
+[Sat Jan 10 19:53:02 2026] [INFO]  responseWholeWritingStr: 这篇文章以“盐”为线索，从日常生活、历史背景、化学知识到校园生活等多个维度展开联想，展现了作者对生活细节的敏锐观察力和丰富的想象力。文章通过超市买盐、妈妈做饭、化学实验、火锅蘸料、班级小品等具体场景，将抽象的概念转化为生动的叙述，使读者在轻松的语境中获取知识，体现了较强的叙事能力和跨学科思维。同时，文章语言朴实自然，大量使用口语化的表达和拟声词（如“滋滋”的声音），增强了画面感和代入感，体现出作者对生活的热情和对知识的探索欲。
+
+但是，文章在结构安排上存在明显疏漏，各部分内容之间缺乏逻辑衔接，导致段落跳跃性过强，如从化学实验突然转到火锅蘸料，再跳到班级小品，缺乏过渡句或主题句的串联，使整体结构显得松散。此外，部分细节描写过于浅显，例如对“盐铁专卖”历史背景的提及仅停留在表面，未深入探讨其社会影响或经济意义；对化学实验的描述也仅停留在“产生氯气”的简单结论，未能引导读者思考氯气在现代工业中的应用或潜在危害。最后，结尾部分以“窗外的蓝天”收束，与前文主题关联薄弱，未能形成首尾呼应，使整篇文章的立意显得不够完整。
+[Sat Jan 10 19:53:02 2026] [INFO]  duration: -1
+[Sat Jan 10 20:01:30 2026] [INFO]  now_str: ren .\logs\console.log log_Sat_Jan_10_20_01_30_2026.log
+[Sat Jan 10 20:01:30 2026] [INFO]  WorkingDirectory: F:\VSCodeWorkspace\snowball-scorer
+[Sat Jan 10 20:01:30 2026] [INFO]  finalShellStr: cd F:\VSCodeWorkspace\snowball-scorer && ren .\logs\console.log log_Sat_Jan_10_20_01_30_2026.log
