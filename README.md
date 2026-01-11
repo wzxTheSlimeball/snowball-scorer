@@ -133,10 +133,17 @@ Please go to `NOTICE.md` for more information
 
 ## 闲话 Gossip
 
+1.
 我的代码风格很烂说实话:(
 
 My code style sucks actually:(
 
+2.
 我英语也不好，所以如果这个README里有翻译错误，欢迎捉虫（）
 
 My English is also imperfect, so if there's any spelling or grammar error, feel free to catch my bugs()
+
+3.(upd on 1.11.2026,8:45 pm)
+我在一开始提交时忘记了添加raylib使用的LICENSE，现在加上了，还请不要责怪...
+
+I forgot to add the LICENSE that raylib uses for the earlier submission, now it's there, please don't blame on me...
