@@ -127,6 +127,10 @@ Using `raylib`, [website](https://www.raylib.com/)
 - **COPYRIGHT**: © Ramon Santamaria and contributors
 - **ADDRESS**: <https://github.com/raysan5/raylib>
 
+请前往`NOTICE.md`获取更多信息
+
+Please go to `NOTICE.md` for more information
+
 ## 闲话 Gossip
 
 我的代码风格很烂说实话:(
