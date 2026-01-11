@@ -7,6 +7,8 @@
 #include <regex>
 
 std::string scoreModel1,scoreModel2,scoreModelThinking,commentingModel;
+std::string scoringPrompt;
+bool formalPromptEdit=false;
 void getConfig()
 {
     std::ifstream configFile("./config.json");
@@ -37,6 +39,30 @@ void getConfig()
     if(std::regex_search(config,match,commentingModelPattern)){
         commentingModel=match[1];
     }
+    std::regex scoringPromptPattern(R"(\"scoringPrompt\"\s*:\s*\"([^\"\\]+)\")");
+    if(std::regex_search(config,match,scoringPromptPattern)){
+        scoringPrompt=match[1];
+    }
+    std::regex formalPromptEditPattern(R"(\"formalPromptEdit\"\s*:\s*(true|false))");
+    if(std::regex_search(config,match,formalPromptEditPattern)){
+        formalPromptEdit=(match[1]=="true");
+    }
+    if(formalPromptEdit){
+        std::regex formalBackgroundPattern(R"(\"background\"\s*:\s*\"([^\"\\]+)\")");
+        std::regex formalWritingPattern(R"(\"writing\"\s*:\s*\"([^\"\\]+)\")");
+        std::regex formalCommentingStandardPattern(R"(\"commenting standard\"\s*:\s*\"([^\"\\]+)\")");
+        std::string background,writing,commentingStandard;
+        if(std::regex_search(config,match,formalBackgroundPattern)){
+            background=match[1];
+        }
+        if(std::regex_search(config,match,formalWritingPattern)){
+            writing=match[1];
+        }
+        if(std::regex_search(config,match,formalCommentingStandardPattern)){
+            commentingStandard=match[1];
+        }
+        scoringPrompt=background+writing+commentingStandard;
+    }
 }
 std::vector<std::string> split(std::string str,std::string delimiter){
     std::vector<std::string> paragraphs;
@@ -63,20 +89,25 @@ std::vector<int> extractAllNumbers(std::string str){
     return numbers;
 }
 int extractScoreNumberFromResponse(std::string str){
-    int idx=str.find("/60");
-    if(idx==std::string::npos){
-        std::vector<int> numbers=extractAllNumbers(str);
-        if(numbers.empty()){
-            return -1;
-        }
-        if(numbers[0]<=10||numbers[0]>=60){
-            return numbers[numbers.size()-1];
-        }
-        return numbers[0];
+    std::smatch m;
+    std::regex r_frac(R"((\d{1,3})\s*/\s*60)");
+    if(std::regex_search(str,m,r_frac) && m.size()>=2){
+        try{
+            return std::stoi(m[1].str());
+        }catch(...){ }
     }
-    if(idx==std::string::npos){
+    std::regex r_total(R"((?:Total\s*Score\s*[:：]?|Total\s*Score)\s*(\d{1,3}))", std::regex::icase);
+    if(std::regex_search(str,m,r_total) && m.size()>=2){
+        try{
+            return std::stoi(m[1].str());
+        }catch(...){ }
+    }
+    std::vector<int> numbers=extractAllNumbers(str);
+    if(numbers.empty()){
         return -1;
     }
-    std::string num=str.substr(idx-1,2);
-    return std::stoi(num);
+    for(auto it = numbers.rbegin(); it!=numbers.rend(); ++it){
+        if(*it>=0 && *it<=60) return *it;
+    }
+    return numbers.back();
 }

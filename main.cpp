@@ -27,7 +27,6 @@ std::mutex promptMutex;
 std::mutex paragraphScoringMutex;
 std::mutex wholeWritingScoringMutex;
 
-const std::string promptScoring="<background>你是一位作文批改老师，请以严格的考试作文标准，对以下文章进行评分。<writing>文章的标题是：%s，文章的内容是：%s。<scoring standard>评分标准是：1.文章的结构是否合理，2.文章的内容是否符合题目要求，3.文章的语言是否通顺，是否书面化，4.文章的语法是否正确，5.文章的情感是否符合题目要求，6.文章的长度是否符合题目要求。请对文章进行评分，上述每一点满分10分，其中6分及格，总体评分范围是0-60分，0分表示完全不符合要求，60分表示完全符合要求。请确保你的回复中只包含一个0~60的整数";
 int main(void)
 {
     curl_global_init(CURL_GLOBAL_ALL);
@@ -74,7 +73,6 @@ int main(void)
             wholeProcessDoneDrawSwitch=false;
             start=std::chrono::high_resolution_clock::now();
             safeLog(LOG_INFO,"testbtn is clicked");
-            // reset previous run data before reading
             writing.clear();
             paragraphScoringMutex.lock();
             paragraphScoring.clear();
@@ -103,7 +101,7 @@ int main(void)
                 safeLog(LOG_INFO,"paragraph: %s",paragraph.c_str());
                 safeLog(LOG_INFO,"\n\n");
             }
-            std::vector<std::string> splitedPrompt=split(promptScoring,"%s");
+            std::vector<std::string> splitedPrompt=split(scoringPrompt,"%s");
             prompt=splitedPrompt[0]+title+splitedPrompt[1]+writing+splitedPrompt[2];
             safeLog(LOG_INFO,"prompt: %s",prompt.c_str());
             Response scoreResponse1;
@@ -116,24 +114,19 @@ int main(void)
                 scoreResponse1=callai(scoreModel1,promptStr,"",0.3,0.6,512,1024,false);
                 scoreResponseStr=scoreResponse1.getShortContent();
                 safeLog(LOG_INFO,"scoreResponse1 done: %s",scoreResponseStr.c_str());
-                while(scoreResponseStr.find_last_not_of("0123456789")!=std::string::npos){
-                    scoreResponseStr.erase(scoreResponseStr.find_last_not_of("0123456789"));
-                }
                 score=extractScoreNumberFromResponse(scoreResponseStr);
+                safeLog(LOG_INFO,"finalScore1: %d",score);
                 scoreResponse2=callai(scoreModel2,promptStr,"",0.3,0.6,512,1024,false);
                 scoreResponseStr2=scoreResponse2.getShortContent();
                 safeLog(LOG_INFO,"scoreResponse2 done: %s",scoreResponseStr2.c_str());
-                while(scoreResponseStr2.find_last_not_of("0123456789")!=std::string::npos){
-                    scoreResponseStr2.erase(scoreResponseStr2.find_last_not_of("0123456789"));
-                }
                 score2=extractScoreNumberFromResponse(scoreResponseStr2);
+                safeLog(LOG_INFO,"finalScore2: %d",score2);
                 scoreResponse3=callai(scoreModelThinking,promptStr,"",0.3,0.6,512,1024,false);
                 scoreResponseStr3=scoreResponse3.getShortContent();
                 safeLog(LOG_INFO,"scoreResponse3 done: %s",scoreResponseStr3.c_str());
-                while(scoreResponseStr3.find_last_not_of("0123456789")!=std::string::npos){
-                    scoreResponseStr3.erase(scoreResponseStr3.find_last_not_of("0123456789"));
-                }
                 score3=extractScoreNumberFromResponse(scoreResponseStr3);
+                safeLog(LOG_INFO,"finalScore3: %d",score3);
+                safeLog(LOG_INFO,"all scoring done");
                 callDone.store(true);
             });
             thread1.detach();

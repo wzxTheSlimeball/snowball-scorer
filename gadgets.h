@@ -6,7 +6,8 @@
 #include <regex>
 
 extern std::string scoreModel1,scoreModel2,scoreModelThinking,commentingModel;
-
+extern std::string scoringPrompt;
+extern bool formalPromptEdit;
 void getConfig();
 std::vector<std::string> split(std::string str,std::string delimiter);
 int extractScoreNumberFromResponse(std::string str);
