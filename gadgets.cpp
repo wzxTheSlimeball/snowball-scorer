@@ -9,6 +9,10 @@
 std::string scoreModel1,scoreModel2,scoreModelThinking,commentingModel;
 std::string scoringPrompt;
 bool formalPromptEdit=false;
+float scoreTemperature;
+float scoreTopP;
+float commentingTemperature;
+float commentingTopP;
 void getConfig()
 {
     std::ifstream configFile("./config.json");
@@ -63,6 +67,22 @@ void getConfig()
         }
         scoringPrompt=background+writing+commentingStandard;
     }
+    std::regex scoreTemperaturePattern(R"(\"scoreTemperature\"\s*:\s*([\d.]+))");
+    if(std::regex_search(config,match,scoreTemperaturePattern)){
+        scoreTemperature=std::stof(match[1]);
+    }
+    std::regex scoreTopPPattern(R"(\"scoreTopP\"\s*:\s*([\d.]+))");
+    if(std::regex_search(config,match,scoreTopPPattern)){
+        scoreTopP=std::stof(match[1]);
+    }
+    std::regex commentingTemperaturePattern(R"(\"commentingTemperature\"\s*:\s*([\d.]+))");
+    if(std::regex_search(config,match,commentingTemperaturePattern)){
+        commentingTemperature=std::stof(match[1]);
+    }
+    std::regex commentingTopPPattern(R"(\"commentingTopP\"\s*:\s*([\d.]+))");
+    if(std::regex_search(config,match,commentingTopPPattern)){
+        commentingTopP=std::stof(match[1]);
+    }
 }
 std::vector<std::string> split(std::string str,std::string delimiter){
     std::vector<std::string> paragraphs;
@@ -107,7 +127,7 @@ int extractScoreNumberFromResponse(std::string str){
         return -1;
     }
     for(auto it = numbers.rbegin(); it!=numbers.rend(); ++it){
-        if(*it>=0 && *it<=60) return *it;
+        if(*it>10 && *it<60) return *it;
     }
     return numbers.back();
 }
