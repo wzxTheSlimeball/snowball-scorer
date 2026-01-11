@@ -113,6 +113,20 @@ catch(reply)
 
 Please check the log first -- most of the problems could be just temporary glitches
 
+## 库依赖 Lib dependences
+
+使用`raylib`图形库，[网址](https://www.raylib.com/)
+
+Using `raylib`, [website](https://www.raylib.com/)
+
+- **许可证**：Raylib 使用 **zlib/libpng License**。
+- **版权**：© Ramon Santamaria and contributors
+- **项目地址**：<https://github.com/raysan5/raylib>
+
+- **LICENSE**: Raylib uses **zlib/libpng License**.
+- **COPYRIGHT**: © Ramon Santamaria and contributors
+- **ADDRESS**: <https://github.com/raysan5/raylib>
+
 ## 闲话 Gossip
 
 我的代码风格很烂说实话:(
