@@ -20,5 +20,5 @@ class Response{
     ~Response();
 };
 std::string escapeJsonString(const std::string& input);
-Response callai(std::string model,std::string prompt,std::string contentFile,float temperature,float top_p,int max_tokens,int num_ctx,bool thinking);
+Response callai(std::string model,std::string prompt,std::string contentFile,float temperature,float top_p,int max_tokens,int num_ctx,bool thinking,std::string stop_seq);
 #endif

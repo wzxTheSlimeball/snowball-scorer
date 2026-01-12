@@ -144,7 +144,7 @@ Response callai(std::string model,std::string prompt,std::string contentFile,flo
     +"\"max_tokens\":"+std::to_string(max_tokens)+","
     +"\"num_ctx\":"+std::to_string(num_ctx)+","
     +"\"thinking\":"+std::string(thinking?"true":"false")+","
-    +"\"stop\":[\""+escapeJsonString(stop_seq)+"\"]"
+    +(stop_seq==""?"\"stop\":[\""+escapeJsonString(stop_seq)+"\"]":"")
     +"}}";
     //我转义的转义，不是转义我的转义，转义我的转义是转义转义转义的转义，我转义的转义，是转义转义转义转义的转义，所以我转义的转义，不是转义我的转义
     safeLog(LOG_INFO, "Ollama postData: %s", postData.c_str());

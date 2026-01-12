@@ -111,17 +111,17 @@ int main(void)
                 promptMutex.lock();
                 std::string promptStr=prompt;
                 promptMutex.unlock();
-                scoreResponse1=callai(scoreModel1,promptStr,"",scoreTemperature,scoreTopP,512,1024,false);
+                scoreResponse1=callai(scoreModel1,promptStr,"",scoreTemperature,scoreTopP,512,1024,false,stopSequence);
                 scoreResponseStr=scoreResponse1.getShortContent();
                 safeLog(LOG_INFO,"scoreResponse1 done: %s",scoreResponseStr.c_str());
                 score=extractScoreNumberFromResponse(scoreResponseStr);
                 safeLog(LOG_INFO,"finalScore1: %d",score);
-                scoreResponse2=callai(scoreModel2,promptStr,"",scoreTemperature,scoreTopP,512,1024,false);
+                scoreResponse2=callai(scoreModel2,promptStr,"",scoreTemperature,scoreTopP,512,1024,false,stopSequence);
                 scoreResponseStr2=scoreResponse2.getShortContent();
                 safeLog(LOG_INFO,"scoreResponse2 done: %s",scoreResponseStr2.c_str());
                 score2=extractScoreNumberFromResponse(scoreResponseStr2);
                 safeLog(LOG_INFO,"finalScore2: %d",score2);
-                scoreResponse3=callai(scoreModelThinking,promptStr,"",scoreTemperature,scoreTopP,512,1024,false);
+                scoreResponse3=callai(scoreModelThinking,promptStr,"",scoreTemperature,scoreTopP,512,1024,false,stopSequence);
                 scoreResponseStr3=scoreResponse3.getShortContent();
                 safeLog(LOG_INFO,"scoreResponse3 done: %s",scoreResponseStr3.c_str());
                 score3=extractScoreNumberFromResponse(scoreResponseStr3);
@@ -139,7 +139,7 @@ int main(void)
                         continue;
                     }
                     std::string prompt="请为下面这个段落写段评，标题为："+title+"，段落为："+para+"\n以markdown格式输出，但不需要\"```markdown\"和\"```\"，也不要包含标题，\"段评：\"，注意你也必须写出这一段的不足之处，不能一味夸赞，不要包含其他内容，格式：优点+\"但是\"+不足处";
-                    Response response=callai(commentingModel,prompt,"",commentingTemperature,commentingTopP,512,1024,true);
+                    Response response=callai(commentingModel,prompt,"",commentingTemperature,commentingTopP,512,1024,true,"");
                     paragraphScoringMutex.lock();
                     safeLog(LOG_INFO,"response: %s",response.getShortContent().c_str());
                     paragraphScoring.push_back(response.getShortContent());
@@ -156,7 +156,7 @@ int main(void)
                 writingMutex.lock();
                 std::string writingStr=writing;
                 writingMutex.unlock();
-                Response responseWholeWriting=callai("qwen3:14b","请为下面文章写总评，标题为："+titleStr+"，文章为："+writingStr+"\n以markdown格式输出，但不需要\"```markdown\"和\"```\"，也不要包含标题，\"段评：\"，注意你也必须写出这篇文章的不足之处，不能一味夸赞，不要包含其他内容，格式：优点+\"但是\"+不足处，请都写得长一点","",commentingTemperature,commentingTopP,1024,2048,true);
+                Response responseWholeWriting=callai("qwen3:14b","请为下面文章写总评，标题为："+titleStr+"，文章为："+writingStr+"\n以markdown格式输出，但不需要\"```markdown\"和\"```\"，也不要包含标题，\"段评：\"，注意你也必须写出这篇文章的不足之处，不能一味夸赞，不要包含其他内容，格式：优点+\"但是\"+不足处，请都写得长一点","",commentingTemperature,commentingTopP,1024,2048,true,"");
                 safeLog(LOG_INFO,"responseWholeWriting: %s",responseWholeWriting.getShortContent().c_str());
                 wholeWritingScoringMutex.lock();
                 responseWholeWritingStr=responseWholeWriting.getShortContent();

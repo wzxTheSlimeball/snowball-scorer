@@ -12,6 +12,7 @@ extern float scoreTemperature;
 extern float scoreTopP;
 extern float commentingTemperature;
 extern float commentingTopP;
+extern std::string stopSequence;
 void getConfig();
 std::vector<std::string> split(std::string str,std::string delimiter);
 int extractScoreNumberFromResponse(std::string str);
