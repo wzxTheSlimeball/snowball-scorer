@@ -135,7 +135,7 @@ std::string escapeJsonString(const std::string& input) {
     }
     return output;
 }
-Response callai(std::string model,std::string prompt,std::string contentFile,float temperature,float top_p,int max_tokens,int num_ctx,bool thinking){
+Response callai(std::string model,std::string prompt,std::string contentFile,float temperature,float top_p,int max_tokens,int num_ctx,bool thinking,std::string stop_seq){
     Response response("",contentFile);
     std::string url="http://localhost:11434/api/generate";
     std::string postData="{\"model\":\""+escapeJsonString(model)+"\",\"prompt\":\""+escapeJsonString(prompt)+"\",\"options\":{"
@@ -143,7 +143,8 @@ Response callai(std::string model,std::string prompt,std::string contentFile,flo
     +"\"top_p\":"+std::to_string(top_p)+","
     +"\"max_tokens\":"+std::to_string(max_tokens)+","
     +"\"num_ctx\":"+std::to_string(num_ctx)+","
-    +"\"thinking\":"+std::string(thinking?"true":"false")
+    +"\"thinking\":"+std::string(thinking?"true":"false")+","
+    +"\"stop\":[\""+escapeJsonString(stop_seq)+"\"]"
     +"}}";
     //我转义的转义，不是转义我的转义，转义我的转义是转义转义转义的转义，我转义的转义，是转义转义转义转义的转义，所以我转义的转义，不是转义我的转义
     safeLog(LOG_INFO, "Ollama postData: %s", postData.c_str());

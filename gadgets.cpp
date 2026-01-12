@@ -13,6 +13,7 @@ float scoreTemperature;
 float scoreTopP;
 float commentingTemperature;
 float commentingTopP;
+std::string stopSequence;
 void getConfig()
 {
     std::ifstream configFile("./config.json");
@@ -82,6 +83,10 @@ void getConfig()
     std::regex commentingTopPPattern(R"(\"commentingTopP\"\s*:\s*([\d.]+))");
     if(std::regex_search(config,match,commentingTopPPattern)){
         commentingTopP=std::stof(match[1]);
+    }
+    std::regex stopSequencePattern(R"(\"stopSequence\"\s*:\s*\"([^\"\\]+)\")");
+    if(std::regex_search(config,match,stopSequencePattern)){
+        stopSequence=match[1];
     }
 }
 std::vector<std::string> split(std::string str,std::string delimiter){

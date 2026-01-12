@@ -131,6 +131,17 @@ Using `raylib`, [website](https://www.raylib.com/)
 
 Please go to `NOTICE.md` for more information
 
+
+使用`curl`库访问ollama服务，`curl License`许可证见`NOTICE.md`
+
+Using `curl` library to call local ollama response, go to `NOTICE.md` for the `curl License`.
+
+- **许可证**：**curl License**
+- **版权**：Copyright (c) 1996 - 2026, Daniel Stenberg, daniel@haxx.se, and many contributors, see the THANKS file.
+
+- **LICENSE**：**curl License**
+- **COPYRIGHT**：Copyright (c) 1996 - 2026, Daniel Stenberg, daniel@haxx.se, and many contributors, see the THANKS file.
+
 ## 闲话 Gossip
 
 1.
@@ -144,6 +155,7 @@ My code style sucks actually:(
 My English is also imperfect, so if there's any spelling or grammar error, feel free to catch my bugs()
 
 3.(upd on 1.11.2026,8:45 pm)
-我在一开始提交时忘记了添加raylib使用的LICENSE，现在加上了，还请不要责怪...
 
-I forgot to add the LICENSE that raylib uses for the earlier submission, now it's there, please don't blame on me...
+我在一开始提交时忘记了添加raylib 和 curl使用的LICENSE，现在加上了，还请不要责怪...
+
+I forgot to add the LICENSE that raylib uses and the one that curl uses for the earlier submission, now it's there, please don't blame on me...
